@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2017-03-16
+img: cabin.png
+alt: LineUp
+project-date: March 2013
+client: IEEE VIS 2017
+category: Visualization Technique
+description: LineUp is a visualization technique for multi-attribute rankings. 
+
+---
