@@ -2,7 +2,7 @@
 layout: default
 modal-id: 7
 date: 2017-03-16
-img: cabin.png
+img: coderdojo.png
 alt: CoderDojo Linz
 keyswords: coderdojo, mentor, voluntary work
 category: voluntary work
