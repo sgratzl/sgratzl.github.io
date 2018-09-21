@@ -1,9 +1,34 @@
 <head>
     <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="viewport" content="width=device-width">
-    <meta name="description" content="{{ site.description }}">
+    {% assign title = page.title | default: site.title | escape %}
+    {% assign desc = page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape %}
+    
+    <title>{{ title }}</title>
+    <meta name="description" content="{{ desc }}" />
+    <meta property="og:image:width" content="378"/>
+    <meta property="og:image:height" content="360"/>
+    <meta property="og:title" content="{{ title }}"/>
+    <meta property="og:site_name" content="{{ title }}" />
+    <meta property="og:description" content="{{ desc }}"/>
+    <meta property="og:url" content="https://sgratzl.com"/>
+    <meta property="og:image" content="https://sgratzl.com/img/profile.png"/>
+
+    <!-- Schema.org markup for Google+ -->
+    <meta itemprop="name" content="{{ title }}"/>
+    <meta itemprop="description" content="{{ desc }}"/>
+    <meta itemprop="image" content="https://sgratzl.com/img/profile.png"/>
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:site" content="@sgratzl"/>
+    <meta name="twitter:title" content="{{ title }}"/>
+    <meta name="twitter:description" content="{{ desc }}"/>
+    <meta name="twitter:creator" content="@sgratzl"/>
+    <meta name="twitter:image:src" content="https://sgratzl.com/img/profile.png"/>
+    
     {% if site.meta_author %}<meta name="author" content="{{ site.meta_author }}">{% endif %}
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
