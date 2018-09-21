@@ -6,10 +6,11 @@ img: lineup.png
 alt: "LineUp: Visual Analysis of Multi-Attribute Rankings"
 website: https://lineup.js.org
 source-code: http://github.com/datavisyn/lineupjs
+demo: https://lineup.js.org/app
 project-date: March 2013
 keywords: publication, multi-attribute, library
 category: Visualization Technique and JavaScript library
-description: LineUp is a visualization technique for multi-attribute rankings. It is implemented as reusable JavaScript library hosted on Github. It won the best paper award out of 152 submissions at IEEE InfoVis 2013. TODO
+description: LineUp is a visualization technique for multi-attribute rankings. It is implemented as reusable JavaScript library hosted on Github available at <a href="https://lineup.js.org" target="_blank" rel="noopener">lineup.js.org</a>. It won the best paper award out of 152 submissions at IEEE InfoVis 2013.
 
 ---
 

@@ -17,25 +17,38 @@
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
+                                {% if post.project-date %}
                                 <li>Project Date:
                                     <strong>{{ post.project-date }}
                                     </strong>
-                                </li>
+                                </li>{% endif %}
+                                {% if post.category %}
                                 <li>Category:
                                     <strong>{{ post.category }}</a>
                                     </strong>
-                                </li>
+                                </li>{% endif %}
+                                {% if post.website %}
                                 <li>Website:
                                     <strong><a href="{{post.website}}" target="_blank" rel="noopener">{{ post.website }}</a>
                                     </strong>
-                                </li>
+                                </li>{% endif %}
+                                {% if post.demo %}
+                                <li>Demo:
+                                    <strong><a href="{{post.demo}}" target="_blank" rel="noopener">{{ post.website }}</a>
+                                    </strong>
+                                </li>{% endif %}
+                                {% if post.source-code %}
                                 <li><i class="fa fa-github"></i>:
                                     <strong><a href="{{post.source-code}}" target="_blank" rel="noopener">{{ post.source-code }}</a>
                                     </strong>
-                                </li>
+                                    {% if post.source-code2 %}
+                                        <strong><a href="{{post.source-code}}" target="_blank" rel="noopener">{{ post.source-code2 }}</a></strong>
+                                    {% endif %}
+                                </li>{% endif %}
+                                {% if post.keywords %}
                                 <li>Tags:
                                     <strong>{{ post.keywords }}</strong>
-                                </li>
+                                </li>{% endif %}
                             </ul>
                             <p class="abstract">
                               {{ post.excerpt }}

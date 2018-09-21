@@ -2,14 +2,18 @@
 layout: default
 modal-id: clue
 order: 4
-img: clue.png
-alt: From Visual Exploration to Storytelling and Back Again
-website: http://clue.caleydo.org
+img: vistories.png
+alt: 'Vistories: From Visual Exploration to Storytelling and Back Again'
+website: http://vistories.org
 source-code: https://github.com/phovea/phovea_clue
-project-date: December 2015
+demo: https://gapminder.caleydoapp.org
 keywords: publication, reproducibility, provenance, storytelling
 category: Model and JavaScript library
 description: In this publication we propose the CLUE model to reproduce and present visual exploration based on recorded provenance data. The CLUE model is available as a reusable JavaScript library.
 ---
 
-The primary goal of visual data exploration tools is to enable the discovery of new insights. To justify and reproduce insights, the discovery process needs to be documented and communicated. A common approach to documenting and presenting findings is to capture visualizations as images or videos. Images, however, are insufficient for telling the story of a visual discovery, as they lack full provenance information and context. Videos are difficult to produce and edit, particularly due to the non-linear nature of the exploratory process. Most importantly, however, neither approach provides the opportunity to return to any point in the exploration in order to review the state of the visualization in detail or to conduct additional analyses. In this paper we present CLUE (Capture, Label, Understand, Explain), a model that tightly integrates data exploration and presentation of discoveries. Based on provenance data captured during the exploration process, users can extract key steps, add annotations, and author 'Vistories', visual stories based on the history of the exploration. These Vistories can be shared for others to view, but also to retrace and extend the original analysis. We discuss how the CLUE approach can be integrated into visualization tools and provide a prototype implementation. Finally, we demonstrate the general applicability of the model in two usage scenarios: a Gapminder-inspired visualization to explore public health data and an example from molecular biology that illustrates how Vistories could be used in scientific journals.
+Visualization is an important data analysis method that allows scientists to explore a dataset without preconceived questions, and is thus crucial for hypothesis generation. When combined with algorithmic approaches, it bridges the gap between exploration and confirmation. Visualization is also essential in communicating research findings.
+
+Current visualization tools, however, have a crucial shortcoming: the interactive visual exploration process is not captured, which means that the analysis steps cannot be shared. Being able to reproduce visual analysis sessions and enabling third parties to understand, modify, and extend analysis sessions can have a significant impact on transparency, reproducibility, and innovation of analysis processes. Furthermore, there is enormous potential to utilize visual analysis sessions to efficiently communicate data.
+
+We introduce a prototype that is a first step towards making this vision a reality. We capture the visual analysis process and enable users to comment on their decisions to make visual analysis reproducible. We leverage the data about the analysis process to allow scientists to create "Vistories", which are interactive and narrated figures, to communicate their findings. Vistories do not only efficiently communicate the findings, but also give audiences the ability to retrace and modify an analysis. Demos for our prototype for this approach are accessible below. 
