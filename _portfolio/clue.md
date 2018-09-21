@@ -2,11 +2,10 @@
 layout: default
 modal-id: clue
 order: 4
-date: 2017-03-16
 img: clue.png
 alt: From Visual Exploration to Storytelling and Back Again
 website: http://clue.caleydo.org
-source-code: http://github.com/phovea/phovea_clue
+source-code: https://github.com/phovea/phovea_clue
 project-date: December 2015
 keywords: publication, reproducibility, provenance, storytelling
 category: Model and JavaScript library

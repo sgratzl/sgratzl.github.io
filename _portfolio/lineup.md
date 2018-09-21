@@ -2,15 +2,14 @@
 layout: default
 modal-id: lineup
 order: 1
-date: 2017-03-16
 img: lineup.png
 alt: "LineUp: Visual Analysis of Multi-Attribute Rankings"
-website: http://lineup.caleydo.org
-source-code: http://github.com/Caleydo/lineupjs
+website: https://lineup.js.org
+source-code: http://github.com/datavisyn/lineupjs
 project-date: March 2013
-keywords: publication, multi-attribute
+keywords: publication, multi-attribute, library
 category: Visualization Technique and JavaScript library
-description: LineUp is a visualization technique for multi-attribute rankings. It is implemented as reusable JavaScript library hosted on Github. It won the best paper award out of 152 submissions at IEEE InfoVis 2013.
+description: LineUp is a visualization technique for multi-attribute rankings. It is implemented as reusable JavaScript library hosted on Github. It won the best paper award out of 152 submissions at IEEE InfoVis 2013. TODO
 
 ---
 

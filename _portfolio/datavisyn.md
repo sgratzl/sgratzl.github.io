@@ -2,14 +2,13 @@
 layout: default
 modal-id: datavisyn
 order: 6
-date: 2017-03-16
 img: datavisyn.png
-alt: Datavisyn
-website: http://datavisyn.io
-source-code: http://github.com/datavisyn
-project-date: October 2016
+alt: datavisyn GmbH
+website: https://www.datavisyn.io
+source-code: https://github.com/datavisyn
+project-date: founded October 2016
 keywords: company, software development, co-founder, start-up
-category: Start-Up
+category: Start-Up, Spin-Off
 description: In October 2016 Samuel Gratzl co-founded datavisyn GmbH and became its CTO. Datavisyn develops data visualization solutions for applications in pharmaceutical and biomedical R&D.
 
 ---
