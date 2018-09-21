@@ -25,6 +25,16 @@ a.active {
     color: #{{ site.color.primary }};
 }
 
+a.secondary,
+a.secondary:hover,
+a.secondary:focus,
+a.secondary:active,
+a.secondary.active {
+    text-decoration: underline;
+    outline: 0;
+    color: white;
+}
+
 h1,
 h2,
 h3,
