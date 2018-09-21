@@ -9,7 +9,7 @@
                 </div>
             </div>
             <div class="row">
-                {% assign sorted = site.posts | sort: 'order' %}
+                {% assign sorted = site.portfolio | sort: 'order' %}
                 {% for post in sorted %}
                     <div class="col-sm-4 portfolio-item">
                         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
