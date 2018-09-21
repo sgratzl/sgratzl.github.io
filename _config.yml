@@ -1,7 +1,7 @@
 # Site settings
 title: Samuel Gratzl
-email: samuel.gratzl@datavisyn.io
-url: https://sgratzl.github.io
+email: contact@sgratzl.com
+url: https://www.sgratzl.com
 description: "Samuel Gratzl is a passionate Information visualizer and experienced Sofware Architect. He loves to dig into code, hunt bugs, and design new platforms"
 skills: "Information Visualizer - Data Scientist - Software Architect"
 meta_author: Gratzl Samuel
@@ -39,9 +39,9 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: bitbucket
-    url: http://bitbucket.org/sgratzl
+    url: https://bitbucket.org/sgratzl
   - title: github
-    url: http://github.com/sgratzl
+    url: https://github.com/sgratzl
 
 # Postal address (add as many lines as necessary)
 address:
