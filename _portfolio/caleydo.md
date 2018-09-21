@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: caleydo
-order: 2
+order: 1
 img: caleydo.png
 alt: Caleydo
 website: http://caleydo.org

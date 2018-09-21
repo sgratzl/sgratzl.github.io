@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: oss
-order: 2
+order: 9
 img: oss.png
 alt: Slack Cleaner, Chart.js Plugins, ...
 source-code: https://github.com/sgratzl/slack_cleaner

@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: datavisyn
-order: 6
+order: 3
 img: datavisyn.png
 alt: datavisyn GmbH
 website: https://www.datavisyn.io
