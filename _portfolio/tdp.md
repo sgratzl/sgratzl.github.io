@@ -2,7 +2,7 @@
 layout: default
 modal-id: tdp
 order: 8
-img: todo.png
+img: tdp.png
 alt: Target Discovery Platform
 website: https://www.datavisyn.io/#tdp
 source-code: https://github.com/datavisyn/tdp_core
