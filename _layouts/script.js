@@ -3,7 +3,6 @@
 
 // Bootstrap Core JavaScript
 {% include js/bootstrap.min.js %}
-{% include js/bootstrap.min.js %}
 
 // Plugin JavaScript
 {% include js/jquery.easing.min.js %}
