@@ -8,18 +8,18 @@
     
     <title>{{ title }}</title>
     <meta name="description" content="{{ desc }}" />
-    <meta property="og:image:width" content="378"/>
-    <meta property="og:image:height" content="360"/>
+    <meta property="og:image:width" content="800"/>
+    <meta property="og:image:height" content="800"/>
     <meta property="og:title" content="{{ title }}"/>
     <meta property="og:site_name" content="{{ title }}" />
     <meta property="og:description" content="{{ desc }}"/>
     <meta property="og:url" content="https://sgratzl.com"/>
-    <meta property="og:image" content="https://sgratzl.com/img/profile.png"/>
+    <meta property="og:image" content="https://sgratzl.com/img/profile.jpg"/>
 
     <!-- Schema.org markup for Google+ -->
     <meta itemprop="name" content="{{ title }}"/>
     <meta itemprop="description" content="{{ desc }}"/>
-    <meta itemprop="image" content="https://sgratzl.com/img/profile.png"/>
+    <meta itemprop="image" content="https://sgratzl.com/img/profile.jpg"/>
 
     <!-- Twitter Card data -->
     <meta name="twitter:card" content="summary_large_image"/>
@@ -27,7 +27,7 @@
     <meta name="twitter:title" content="{{ title }}"/>
     <meta name="twitter:description" content="{{ desc }}"/>
     <meta name="twitter:creator" content="@sgratzl"/>
-    <meta name="twitter:image:src" content="https://sgratzl.com/img/profile.png"/>
+    <meta name="twitter:image:src" content="https://sgratzl.com/img/profile.jpg"/>
     
     {% if site.meta_author %}<meta name="author" content="{{ site.meta_author }}">{% endif %}
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
