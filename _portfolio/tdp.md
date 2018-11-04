@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: tdp
-order: 8
+order: 2
 img: tdp.jpg
 alt: Target Discovery Platform
 website: https://www.datavisyn.io/#tdp

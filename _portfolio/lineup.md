@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: lineup
-order: 7
+order: 1
 img: lineup.png
 alt: "LineUp: Visual Analysis of Multi-Attribute Rankings"
 website: https://lineup.js.org
