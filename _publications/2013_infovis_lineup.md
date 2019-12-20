@@ -1,5 +1,4 @@
 ---
-layout: publication
 title: "LineUp: Visual Analysis of Multi-Attribute Rankings"
 key: 2013_infovis_lineup
 permalink: /publications/2013_infovis_lineup/

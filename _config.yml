@@ -39,10 +39,11 @@ footer:
   credits: Credits
 
 collections:
-  - portfolio
+  - projects
   - research
   - publications
   - videos
+  - news
 
 paper_content_url: http://data.caleydo.org/papers/
 poster_content_url: http://data.caleydo.org/posters/

@@ -1,5 +1,4 @@
 ---
-layout: publication
 # Quotes make the : possible, otherwise you can type this without quotes
 title: "KnowledgePearls: Provenance-Based Visualization Retrieval"
 # Keys must be unique to each paper, see section below for more details

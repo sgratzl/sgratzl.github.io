@@ -1,5 +1,4 @@
 ---
-layout: publication
 title: "Guided Visual Exploration of Genomic Stratifications in Cancer"
 key: 2014_nm_stratomex
 permalink: /publications/2014_nm_stratomex/

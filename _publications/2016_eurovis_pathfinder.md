@@ -1,5 +1,4 @@
 ---
-layout: publication
 # The quotes make the : possible, otherwise you can do it without quotes
 title: "Pathfinder: Visual Analysis of Paths in Graphs"
 key: 2016_eurovis_pathfinder

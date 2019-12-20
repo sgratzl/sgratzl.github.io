@@ -1,5 +1,4 @@
 ---
-layout: publication
 # The quotes make the : possible, otherwise you can do it without quotes
 title: "Taggle: Combining Overview and Details in Tabular Data Visualizations"
 key: 2019_sage_infovis_taggle

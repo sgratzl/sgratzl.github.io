@@ -466,3 +466,8 @@ footer h3 {
     margin: 3px;
     border-radius: 2px;
 }
+
+.news-item p,
+.news-item h4 {
+    font-size: 14px;
+}

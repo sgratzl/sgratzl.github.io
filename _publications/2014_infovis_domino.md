@@ -1,5 +1,4 @@
 ---
-layout: publication
 title: "Domino: Extracting, Comparing, and Manipulating Subsets across Multiple Tabular Datasets "
 key: 2014_infovis_domino
 permalink: /publications/2014_infovis_domino/

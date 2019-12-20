@@ -1,5 +1,4 @@
 ---
-layout: publication
 title: "Opening the Black Box: Strategies for Increased User Involvement in Existing Algorithm Implementations"
 key: 2014_vast_opening-black-box
 permalink: /publications/2014_vast_opening-black-box/

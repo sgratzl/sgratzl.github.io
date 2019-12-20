@@ -1,5 +1,4 @@
 ---
-layout: publication
 # The quotes make the : possible, otherwise you can do it without quotes
 title: "Ordino: visual analysis tool for ranking and exploring genes, cell lines, and tissue samples"
 key: 2019_bioinformatics_ordino
