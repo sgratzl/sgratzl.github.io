@@ -34,15 +34,15 @@
                                 </li>{% endif %}
                                 {% if post.demo %}
                                 <li>Demo:
-                                    <strong><a href="{{post.demo}}" target="_blank" rel="noopener">{{ post.website }}</a>
+                                    <strong><a href="{{post.demo}}" target="_blank" rel="noopener noreferrer">{{ post.website }}</a>
                                     </strong>
                                 </li>{% endif %}
                                 {% if post.source-code %}
                                 <li><i class="fa fa-github"></i>:
-                                    <strong><a href="{{post.source-code}}" target="_blank" rel="noopener">{{ post.source-code }}</a>
+                                    <strong><a href="{{post.source-code}}" target="_blank" rel="noopener noreferrer">{{ post.source-code }}</a>
                                     </strong>
                                     {% if post.source-code2 %}
-                                        <strong><a href="{{post.source-code}}" target="_blank" rel="noopener">{{ post.source-code2 }}</a></strong>
+                                        <strong><a href="{{post.source-code}}" target="_blank" rel="noopener noreferrer">{{ post.source-code2 }}</a></strong>
                                     {% endif %}
                                 </li>{% endif %}
                                 {% if post.keywords %}

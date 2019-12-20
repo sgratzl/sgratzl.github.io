@@ -4,8 +4,12 @@
     <body id="page-top" class="index">
     {% include nav.html %}
     {% include header.html %}
-    {% include portfolio_grid.html %}
+
     {% include about.html %}
+
+    {% include portfolio_grid.html %}
+    {% include research_grid.html %}
+    {% include publications.html %}
 
     {% if site.contact == "static" %}
     {% include contact_static.html %}
@@ -16,7 +20,10 @@
     {% endif %}
 
     {% include footer.html %}
-    {% include modals.html %}
+
+    {% include portfolio_modals.html %}
+    {% include research_modals.html %}
+
     <script src="/script.js"></script>
     </body>
 </html>
