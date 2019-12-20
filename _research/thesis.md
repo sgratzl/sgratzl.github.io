@@ -8,9 +8,10 @@ project-date: April 2017
 keywords: thesis, guidance
 category: PhD thesis
 pdf: ./thesis_gratzl_2017.pdf
-description: In his PhD thesis Samuel Gratzl describes models, techniques, and tools that supports and guides users in selection, exploration, and presentation tasks encountered during an visual analysis. 
-
+pdfTitle: PhD thesis
 ---
+
+In my [PhD thesis](./thesis_gratzl_2017.pdf) I describe models, techniques, and tools that supports and guides users in selection, exploration, and presentation tasks encountered during an visual analysis. It can be summarized as: 
 
 Making scientific discoveries based on large and heterogeneous datasets is challenging. The continuous improvement of data acquisition technologies makes it possible to collect more and more data. However, not only the amount of data is growing at a fast pace, but also its complexity. Visually analyzing such large, interconnected data collections requires a user to perform a combination of selection, exploration, and presentation tasks. In each of these tasks a user needs guidance in terms of (1) <strong>what</strong> data subsets are to be investigated from the data collection, (2) <strong>how</strong> to effectively and efficiently explore selected data subsets, and (3) <strong>how</strong> to effectively reproduce findings and tell the story of their discovery. On the basis of a unified model called the SPARE model, this thesis makes contributions to all three guidance tasks a user encounters during a visual analysis session: 
 
