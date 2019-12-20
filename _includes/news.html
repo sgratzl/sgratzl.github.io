@@ -1,0 +1,20 @@
+<section id="news">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>News</h2>
+                <hr class="star-primary">
+            </div>
+        </div>
+        <div class="row">
+            <ul class="col-lg-12">
+                {% for post in site.posts reversed%}
+                <li>
+                    <a href="{{ post.url }}">{{ post.title }}</a>
+                    {{ post.excerpt }}
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</article>
