@@ -2,6 +2,7 @@
 layout: publication
 title: "Domino: Extracting, Comparing, and Manipulating Subsets across Multiple Tabular Datasets "
 key: 2014_infovis_domino
+permalink: /publications/2014_infovis_domino/
 type: paper
 
 shortname: Domino
@@ -13,10 +14,10 @@ image_large: 2014_infovis_domino_teaser.png
 
 authors:
 - gratzl
-- gehlenborg
-- lex
-- pfister
-- streit
+- Nils Gehlenborg
+- Alexander Lex
+- Hanspeter Pfister
+- Marc Streit
 
 journal-short: TVCG (InfoVis '14)
 year: 2014

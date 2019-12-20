@@ -455,3 +455,14 @@ footer h3 {
   width: 30em;
   border-radius: 50%;
 }
+
+.award {
+  font-style: italic;
+  color: orange;
+}
+
+.publication img {
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.75);
+    margin: 3px;
+    border-radius: 2px;
+}

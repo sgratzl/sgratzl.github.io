@@ -42,6 +42,11 @@ collections:
   - portfolio
   - research
   - publications
+  - videos
+
+paper_content_url: http://data.caleydo.org/papers/
+poster_content_url: http://data.caleydo.org/posters/
+caleydo_url: https://caleydo.org
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

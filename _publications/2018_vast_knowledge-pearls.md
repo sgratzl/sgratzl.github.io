@@ -18,14 +18,14 @@ image_large: 2018_vast_knowledge-pearls_teaser.png
 
 # Authors in the "database" can be used with just their person "key"
 authors:
-- stitz
+- Holger Stitz
 - gratzl
 - Harald Piringer
 - Thomas Zichner
-- streit
+- Marc Streit
 
 # Include a shortened name for the journal or conference/proceedings
-journal-short: TVCG (VAST'18) 
+journal-short: TVCG (VAST'18)
 year: 2018
 
 # Create BibTeX info, using one of the entry choices

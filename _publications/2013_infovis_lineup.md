@@ -2,20 +2,20 @@
 layout: publication
 title: "LineUp: Visual Analysis of Multi-Attribute Rankings"
 key: 2013_infovis_lineup
+permalink: /publications/2013_infovis_lineup/
 type: paper
 
 
 shortname: LineUp
 image: 2013_infovis_lineup.png
-image_large: 2013_infovis_lineup_teaser.png
 
 
 authors:
 - gratzl
-- lex
-- gehlenborg
-- pfister
-- streit
+- Alexander Lex
+- Nils Gehlenborg
+- Hanspeter Pfister
+- Marc Streit
 
 # Include a shortened name for the journal or conference/proceedings
 journal-short: TVCG (InfoVis '13)

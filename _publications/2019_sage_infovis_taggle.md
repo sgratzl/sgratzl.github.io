@@ -4,7 +4,7 @@ layout: publication
 title: "Taggle: Combining Overview and Details in Tabular Data Visualizations"
 key: 2019_sage_infovis_taggle
 # paper | preprint | poster
-type: paper
+type: preprint
 # optional url for a different site; defaults to data.caleydo.org
 #paper_content_url: https://arxiv.org/abs/1712.05944
 
@@ -20,12 +20,12 @@ image_large: 2019_sage_infovis_taggle.png
 authors:
 - Katarina Furmanova
 - gratzl
-- stitz
+- Holger Stitz
 - Thomas Zichner
 - Miroslava Jaresova
-- ennemoser
-- lex
-- streit
+- Martin Ennemoser
+- Alexander Lex
+- Marc Streit
 
 journal-short: Information Visualization
 year: 2019

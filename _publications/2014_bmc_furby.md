@@ -11,7 +11,7 @@ shortname: furby
 image: 2014_bmc_furby.png
 
 authors:
-- streit
+- Marc Streit
 - gratzl
 - Michael Gillhofer
 - Andreas Mayr

@@ -18,9 +18,9 @@ image_large: 2019_bioinformatics_ordino_teaser.png
 
 # Authors in the "database" can be used with just the key (lastname). Others can be written properly.
 authors:
-- streit
+- Marc Streit
 - gratzl
-- stitz
+- Holger Stitz
 - Andreas Wernitznig
 - Thomas Zichner
 - Christian Haslinger

@@ -2,22 +2,21 @@
 layout: publication
 title: "Guided Visual Exploration of Genomic Stratifications in Cancer"
 key: 2014_nm_stratomex
-redirect_from: /publications/2014_nm_stratomex/
+permalink: /publications/2014_nm_stratomex/
 type: paper
 
 shortname: StratomeX
 image: 2014_nm_stratomex.png
-image_large: 2014_nm_stratomex_teaser.png
 
 authors:
-- streit
-- lex
+- Marc Streit
+- Alexander Lex
 - gratzl
-- partl
-- schmalstieg
-- pfister
+- Christian Partl
+- Dieter Schmalstieg
+- Hanspeter Pfister
 - Peter Park
-- gehlenborg
+- Nils Gehlenborg
 
 journal-short: NM
 year: 2014
@@ -40,7 +39,7 @@ video: 2014_nm_stratomex_video
 preview-video:
 
 
-pdf: 2014_nm_stratomex.pdf
+pdf: 
 supplement: 2014_nm_stratomex_supplementary.pdf
 supplements:
 - 
