@@ -8,7 +8,7 @@ type: paper
 # The shortname is used for auto-generated titels
 shortname: CLUE
 # add a 2:1 aspect ratio (e.g., width: 400px, height: 200px) to the folder /assets/images/papers/
-image: 2016_eurovis_clue.png
+image: 2016_eurovis_clue
 # add a 2:1 aspect ratio teaser figure (e.g., width: 1200px, height: 600px) to the folder /assets/images/papers/
 image_large: 2016_eurovis_clue_teaser.png
 

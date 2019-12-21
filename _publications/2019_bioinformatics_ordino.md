@@ -11,7 +11,7 @@ paper_content_url: https://doi.org/10.1093/bioinformatics/btz009
 # The shortname is used for auto-generated titels
 shortname: Ordino
 # add a 2:1 aspect ratio (e.g., width: 400px, height: 200px) to the folder /assets/images/papers/
-image: 2019_bioinformatics_ordino.png
+image: 2019_bioinformatics_ordino
 # add a 2:1 aspect ratio teaser figure (e.g., width: 1200px, height: 600px) to the folder /assets/images/papers/
 image_large: 2019_bioinformatics_ordino_teaser.png
 

@@ -5,7 +5,7 @@ permalink: /publications/2014_nm_stratomex/
 type: paper
 
 shortname: StratomeX
-image: 2014_nm_stratomex.png
+image: 2014_nm_stratomex
 
 authors:
 - Marc Streit

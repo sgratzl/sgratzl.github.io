@@ -1,12 +1,16 @@
 <div class="row publication">
     <div class="col-lg-2">
-        {% if publication.non-caleydo-paper %}
-        <img alt="{{ publication.shortname }} screenshot" class="img-responsive"
-            src="{{ site.baseurl }}/img/publications/{{ publication.image }}">
-        {% else %}
+        {% if !publication.non-caleydo-paper %}
         <a href="{{ site.caleydo_url }}{{ publication.url }}">
+        {% endif %}
+        <picture class="img-responsive">
+            <source srcset="img/publications/{{ publication.image }}_small.webp 200w, img/publications/{{ publication.image }}.webp 400w"
+                type="image/webp">
             <img alt="{{ publication.shortname }} screenshot" class="img-responsive"
-                src="{{ site.baseurl }}/img/publications/{{ publication.image }}">
+            src="img/publications/{{ publication.image }}.png">
+        </picture>
+        
+        {% if !publication.non-caleydo-paper %}
         </a>
         {% endif %}
     </div>

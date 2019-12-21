@@ -7,7 +7,7 @@ redirect_from: /projects/furby.html
 
 
 shortname: furby
-image: 2014_bmc_furby.png
+image: 2014_bmc_furby
 
 authors:
 - Marc Streit
