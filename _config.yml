@@ -62,10 +62,10 @@ social:
 address:
   - line: Galgenbuehel 4
   - line: 4283 Bad Zell, Austria
-  - line: <a href="mailto:sam@sgratzl.com">sam@sgratzl.com</a>
+  - line: <a href="mailto:sam@sgratzl.com" class="secondary">sam@sgratzl.com</a>
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="https://startbootstrap.com" class="secondary">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown

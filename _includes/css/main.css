@@ -167,8 +167,13 @@ header .intro-text .skills {
     letter-spacing: 1px;
 }
 
-.navbar-nav li a:focus {
-    outline: 0;
+
+.navbar-default .navbar-nav > li > a {
+    color: #333;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: #000;
 }
 
 .navbar-default,
@@ -458,7 +463,7 @@ footer h3 {
 
 .award {
   font-style: italic;
-  color: orange;
+  color: #B85C00;
 }
 
 .publication .img-responsive {

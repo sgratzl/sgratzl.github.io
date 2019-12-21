@@ -1,5 +1,5 @@
 // JQuery
-{% include js/jquery-3.3.1.min.js %}
+{% include js/jquery-3.4.1.min.js %}
 
 // Bootstrap Core JavaScript
 {% include js/bootstrap.min.js %}
