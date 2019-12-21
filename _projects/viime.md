@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: viime
-order: 5
+order: 6
 img: viime.png
 alt: VIIME
 keywords: kitware, metabolomics data

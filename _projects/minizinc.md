@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: minizinc
-order: 5
+order: 4
 img: minizinc.png
 alt: MiniZinc Constraint Program Solver
 keywords: minizinc, constraint programming, emscripten
