@@ -11,9 +11,10 @@ category: Open Source Contributions
 technologies: es6, babel, rollup.js, jest, canvas, d3
 ---
 
-TODO
+[Chart.js](https://www.chartjs.org/) is a JavaScript charting library based on HTML Canvas. It support various basic chart types but also allow developers to extend the framework using plugins. Over the last two years I created several plugins that improve the library and add new chart types: 
 
-<a href="https://github.com/datavisyn/chartjs-chart-box-and-violin-plot" target="_blank" rel="noopener">Box Plot plugin</a> or a <a href="https://github.com/datavisyn/chartjs-scale-hierarchical" target="_blank" rel="noopener">Hierarchical Scale  plugin</a> integrating a group, expand, and collapse feature for bar charts. 
+The [Box Plot plugin](https://github.com/datavisyn/chartjs-chart-box-and-violin-plot) allows user to create box and violin plots. Box Plots allow to quickly summarize distributions by showing the most important staticical values such as the median value and several quantiles. I also created a [Hierarchical Scale Plugin](https://github.com/datavisyn/chartjs-scale-hierarchical) that extends for example bar charts to group, collapse, expand, and focus on hierarchical data. It is an advanced version of the grouping feature in Microsoft Excel.
 
+Recently I created several new plugins that further extend Chart.js to draw more visualization types. The [Graphs plugin](https://github.com/sgratzl/chartjs-chart-graph) allows devleopers to show graphs/networks and trees, either using using a force directed layout or a fixed tree layout. The [Error Bars plugin](https://github.com/sgratzl/chartjs-chart-error-bars) extend several standard plot types (bar chart, scatterplot, radial charts) to render error bars to show distribution and error ranges. Finally, the [Geo Plugin](https://github.com/sgratzl/chartjs-chart-geo) allows developers to render choropleth and bubble maps, such as showing information on a world map about population densities. 
 
-I created three new chart.js plugins: [chartjs-chart-graph](https://github.com/sgratzl/chartjs-chart-graph) (for showing graphs and trees), [chartjs-chart-error-bars](https://github.com/sgratzl/chartjs-chart-error-bars) (add error bars for various base type), and [chartjs-chart-geo](https://github.com/sgratzl/chartjs-chart-geo) (create cholorpleth and bubble maps). They were also added to [chart.js awesome list](https://github.com/chartjs/awesome).
+I'm happy that all my plugins are now listed on the official [chart.js awesome list](https://github.com/chartjs/awesome).

@@ -471,3 +471,7 @@ footer h3 {
 .news-item h4 {
     font-size: 14px;
 }
+
+.tag-list {
+    list-style: none;
+}
