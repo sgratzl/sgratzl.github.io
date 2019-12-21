@@ -2,7 +2,8 @@
 layout: default
 modal-id: slackcleaner
 order: 2
-img: slack-cleaner.png
+img: slack-cleaner
+imgformat: png
 alt: Slack Cleaner
 source-code: https://github.com/sgratzl/slack-cleaner
 source-code2: https://github.com/sgratzl/slack_cleaner2

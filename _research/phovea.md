@@ -2,7 +2,8 @@
 layout: default
 modal-id: phovea
 order: 8
-img: phovea.png
+img: phovea
+imgformat: png
 alt: phovea
 website: http://phovea.caleydo.org
 source-code: https://github.com/phovea/

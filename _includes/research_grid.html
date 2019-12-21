@@ -16,7 +16,10 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/research/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+                        <picture class="img-responsive">
+                            <source srcset="img/research/{{ post.img }}_small.webp 360w, img/research/{{ post.img }}.webp 900w" type="image/webp">
+                            <img src="img/research/{{ post.img }}.{{ post.imgformat }}" alt="{{ post.alt }}" class="img-responsive">
+                        </picture>
                     </a>
                 </div>
             {% endfor %}

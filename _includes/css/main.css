@@ -100,7 +100,7 @@ header .container {
     padding-bottom: 50px;
 }
 
-header img {
+header .img-responsive {
     display: block;
     margin: 0 auto 20px;
 }
@@ -399,7 +399,7 @@ footer h3 {
     font-size: 3em;
 }
 
-.modal-content img {
+.modal-content .img-responsive {
     margin-bottom: 30px;
     text-align: center;
 }
@@ -461,7 +461,7 @@ footer h3 {
   color: orange;
 }
 
-.publication img {
+.publication .img-responsive {
     box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.75);
     margin: 3px;
     border-radius: 2px;

@@ -2,7 +2,8 @@
 layout: default
 modal-id: teaching
 order: 4
-img: teaching.jpg
+img: teaching
+imgformat: jpg
 alt: Teaching
 project-date: 2016 - 2019
 source-code: https://github.com/sgratzl/d3tutorial

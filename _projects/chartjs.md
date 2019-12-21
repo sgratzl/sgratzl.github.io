@@ -1,7 +1,8 @@
 ---
 modal-id: chartjs
 order: 3
-img: chartjs.png
+img: chartjs
+imgformat: png
 alt: Chart.js Plugins
 source-code: https://github.com/sgratzl?q=chartjs
 source-code2: https://github.com/datavisyn?q=chartjs

@@ -2,7 +2,8 @@
 layout: default
 modal-id: minizinc
 order: 4
-img: minizinc.png
+img: minizinc
+imgformat: png
 alt: MiniZinc Constraint Program Solver
 source-code: https://gitlab.com/minizinc/minizinc-webide
 demo: https://minizinc-ide.netlify.com/

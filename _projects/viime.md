@@ -2,7 +2,8 @@
 layout: default
 modal-id: viime
 order: 6
-img: viime.png
+img: viime
+imgformat: png
 alt: VIIME
 keywords: kitware, metabolomics data
 source-code: https://github.com/girder/viime

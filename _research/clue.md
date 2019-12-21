@@ -2,7 +2,8 @@
 layout: default
 modal-id: clue
 order: 9
-img: clue.png
+img: clue
+imgformat: png
 alt: 'Vistories: From Visual Exploration to Storytelling and Back Again'
 website: https://vistories.org
 source-code: https://github.com/phovea/phovea_clue

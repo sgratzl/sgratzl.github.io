@@ -2,7 +2,8 @@
 layout: default
 modal-id: telegrambots
 order: 5
-img: telegrambots.png
+img: telegrambots
+imgformat: png
 alt: Telegram Bots
 source-code: https://github.com/sgratzl/developer_webhook_bot
 source-code2: https://github.com/sgratzl/yet_another_rss_bot

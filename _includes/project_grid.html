@@ -15,8 +15,11 @@
                             <div class="caption-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
-                        </div>
-                        <img src="img/projects/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+                        </div>                    
+                        <picture class="img-responsive">
+                            <source srcset="img/projects/{{ post.img }}_small.webp 360w, img/projects/{{ post.img }}.webp 900w" type="image/webp">
+                            <img src="img/projects/{{ post.img }}.{{ post.imgformat }}" alt="{{ post.alt }}" class="img-responsive">
+                        </picture>
                     </a>
                 </div>
             {% endfor %}

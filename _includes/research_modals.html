@@ -14,7 +14,10 @@
                         <div class="modal-body">
                             <h2>{{ post.alt }}</h2>
                             <hr class="star-primary">
-                            <img src="img/research/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            <picture class="img-responsive img-centered">
+                                <source srcset="img/research/{{ post.img }}_small.webp 360w, img/research/{{ post.img }}.webp 900w" type="image/webp">
+                                <img src="img/research/{{ post.img }}.{{ post.imgformat }}" alt="{{ post.alt }}" class="img-responsive img-centered">
+                            </picture>
                             
                             <ul class="list-inline item-details">
                                 {% if post.project-date %}

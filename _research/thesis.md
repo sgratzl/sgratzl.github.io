@@ -2,7 +2,8 @@
 layout: default
 modal-id: thesis
 order: 6
-img: thesis.png
+img: thesis
+imgformat: png
 alt: Visually Guiding Users in Selection, Exploration, and Presentation Tasks
 project-date: April 2017
 keywords: thesis, guidance
