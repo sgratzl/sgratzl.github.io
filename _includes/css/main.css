@@ -475,3 +475,7 @@ footer h3 {
 .tag-list {
     list-style: none;
 }
+
+.author-me {
+    font-weight: bold;
+}
