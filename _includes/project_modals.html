@@ -1,66 +1,67 @@
- <!-- Portfolio Modals -->
- {% for post in site.projects %}
-    <div class="portfolio-modal modal fade" id="projects-{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>{{ post.alt }}</h2>
-                            <hr class="star-primary">
-                            <picture class="img-responsive img-centered">
-                                <source srcset="img/projects/{{ post.img }}_small.webp 360w, img/projects/{{ post.img }}.webp 900w" type="image/webp">
-                                <img src="img/projects/{{ post.img }}.{{ post.imgformat }}" alt="{{ post.alt }}" class="img-responsive img-centered">
-                            </picture>
-
-                            <ul class="tag-list item-details">
-                                {% if post.source-code %}
-                                <li>Source Code:
-                                    <strong><a href="{{post.source-code}}" target="_blank" rel="noopener noreferrer">{{ post.source-code }}</a>
-                                    </strong>
-                                    {% if post.source-code2 %}
-                                    <strong><a href="{{post.source-code}}" target="_blank"
-                                            rel="noopener noreferrer">{{ post.source-code2 }}</a></strong>
-                                    {% endif %}
-                                </li>{% endif %}
-                                {% if post.project-date %}
-                                {% if post.website %}
-                                <li>Website:
-                                    <strong><a href="{{post.website}}" target="_blank" rel="noopener">{{ post.website }}</a>
-                                    </strong>
-                                </li>{% endif %}
-                                {% if post.demo %}
-                                <li>Demo:
-                                    <strong><a href="{{post.demo}}" target="_blank" rel="noopener noreferrer">{{ post.demo }}</a>
-                                    </strong>
-                                </li>{% endif %}
-                                <li>Project Date:
-                                    <strong>{{ post.project-date }}
-                                    </strong>
-                                </li>{% endif %}
-                                {% if post.keywords %}
-                                <li>Tags:
-                                    <strong>{{ post.keywords }}</strong>
-                                </li>{% endif %}
-                                {% if post.technologies %}
-                                <li>Technologies:
-                                    <strong>{{ post.technologies }}</strong>
-                                </li>{% endif %}
-                            </ul>
-                            <p class="abstract">
-                              {{ post.content }}
-                            </p>                            
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+<!-- Portfolio Modals -->
+{% for post in site.projects %}
+<div class="portfolio-modal modal fade" id="projects-{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-content">
+    <div class="close-modal" data-dismiss="modal">
+      <div class="lr">
+        <div class="rl"></div>
+      </div>
     </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+          <div class="modal-body">
+            <h2>{{ post.alt }}</h2>
+            <hr class="star-primary" />
+            <picture class="img-responsive img-centered">
+              <source srcset="img/projects/{{ post.img }}_small.webp 360w, img/projects/{{ post.img }}.webp 900w" type="image/webp" />
+              <img src="img/projects/{{ post.img }}.{{ post.imgformat }}" alt="{{ post.alt }}" class="img-responsive img-centered" />
+            </picture>
+
+            <ul class="tag-list item-details">
+              {% if post.source-code %}
+              <li>
+                Source Code:
+                <strong><a href="{{post.source-code}}" target="_blank" rel="noopener noreferrer">{{ post.source-code }}</a> </strong>
+                {% if post.source-code2 %}
+                <strong><a href="{{post.source-code}}" target="_blank" rel="noopener noreferrer">{{ post.source-code2 }}</a></strong>
+                {% endif %}
+              </li>
+              {% endif %} {% if post.project-date %} {% if post.website %}
+              <li>
+                Website:
+                <strong><a href="{{post.website}}" target="_blank" rel="noopener">{{ post.website }}</a> </strong>
+              </li>
+              {% endif %} {% if post.demo %}
+              <li>
+                Demo:
+                <strong><a href="{{post.demo}}" target="_blank" rel="noopener noreferrer">{{ post.demo }}</a> </strong>
+              </li>
+              {% endif %}
+              <li>
+                Project Date:
+                <strong>{{ post.project-date }} </strong>
+              </li>
+              {% endif %} {% if post.keywords %}
+              <li>
+                Tags:
+                <strong>{{ post.keywords }}</strong>
+              </li>
+              {% endif %} {% if post.technologies %}
+              <li>
+                Technologies:
+                <strong>{{ post.technologies }}</strong>
+              </li>
+              {% endif %}
+            </ul>
+            <p class="abstract">
+              {{ post.content }}
+            </p>
+            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 {% endfor %}

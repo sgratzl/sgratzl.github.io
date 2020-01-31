@@ -1,28 +1,27 @@
 <section id="research">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2>Research and Teaching</h2>
-                <hr class="star-primary">
-            </div>
-        </div>
-        <div class="row">
-            {% assign sorted = site.research | sort: 'order' %}
-            {% for post in sorted %}
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#researchModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <picture class="img-responsive">
-                            <source srcset="img/research/{{ post.img }}_small.webp 360w, img/research/{{ post.img }}.webp 900w" type="image/webp">
-                            <img src="img/research/{{ post.img }}.{{ post.imgformat }}" alt="{{ post.alt }}" class="img-responsive">
-                        </picture>
-                    </a>
-                </div>
-            {% endfor %}
-        </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>Research and Teaching</h2>
+        <hr class="star-primary" />
+      </div>
     </div>
+    <div class="row">
+      {% assign sorted = site.research | sort: 'order' %} {% for post in sorted %}
+      <div class="col-sm-4 portfolio-item">
+        <a href="#researchModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+          <div class="caption">
+            <div class="caption-content">
+              <i class="fa fa-search-plus fa-3x"></i>
+            </div>
+          </div>
+          <picture class="img-responsive">
+            <source srcset="img/research/{{ post.img }}_small.webp 360w, img/research/{{ post.img }}.webp 900w" type="image/webp" />
+            <img src="img/research/{{ post.img }}.{{ post.imgformat }}" alt="{{ post.alt }}" class="img-responsive" />
+          </picture>
+        </a>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
 </section>

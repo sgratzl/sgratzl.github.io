@@ -1,6 +1,6 @@
 ---
-title:  Github Sponsors
-date:   2019-10-24
+title: Github Sponsors
+date: 2019-10-24
 categories: event
 ---
 
