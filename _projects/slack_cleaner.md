@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: slackcleaner
-order: 2
+order: 3
 img: slack-cleaner
 imgformat: png
 alt: Slack Cleaner

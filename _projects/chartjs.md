@@ -1,6 +1,6 @@
 ---
 modal-id: chartjs
-order: 3
+order: 5
 img: chartjs
 imgformat: png
 alt: Chart.js Plugins

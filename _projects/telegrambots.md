@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: telegrambots
-order: 5
+order: 6
 img: telegrambots
 imgformat: png
 alt: Telegram Bots
