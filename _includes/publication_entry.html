@@ -1,16 +1,15 @@
 <div class="row publication">
   <div class="col-lg-2">
-    {% if !publication.non-caleydo-paper %}
+    {% if publication.non-caleydo-paper %}
+    <a href="{{ publication.external-project }}">
+    {% else %}
     <a href="{{ site.caleydo_url }}{{ publication.url }}">
-      {% endif %}
+    {% endif %}
       <picture class="img-responsive">
         <source srcset="img/publications/{{ publication.image }}_small.webp 200w, img/publications/{{ publication.image }}.webp 400w" type="image/webp" />
         <img alt="{{ publication.shortname }} screenshot" class="img-responsive" src="img/publications/{{ publication.image }}.png" />
       </picture>
-
-      {% if !publication.non-caleydo-paper %}
     </a>
-    {% endif %}
   </div>
 
   <div class="col-lg-10">
@@ -59,7 +58,7 @@
       &nbsp; {% elsif video.key == publication.video and video.vimeo-id %}
       <i class="fa fa-vimeo"></i>&nbsp;
       <a href="http://vimeo.com/{{video.vimeo-id}}">Vimeo</a>
-      &nbsp; {% endif %} {% endfor %} {% for video in site.videos %} {% if video.key == publication.video %}
+      &nbsp; {% endif %} {% endfor %} {% for video in site.videos %} {% if video.key == publication.video && video.file %}
       <i class="fa fa-file-video-o"></i> &nbsp;
       <a href="{{site.paper_content_url}}{{video.file}}">Video</a>
       &nbsp; {% endif %} {% endfor %} {%if publication.bibtex %}
