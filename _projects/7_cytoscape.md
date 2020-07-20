@@ -1,4 +1,5 @@
 ---
+layout: default
 modal-id: cytoscape
 order: 7
 img: cytoscape
