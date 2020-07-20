@@ -13,4 +13,4 @@ category: Open Source Contributions
 technologies: babel, es6, typescript
 ---
 
-Another area of my projects is to maintain abandoned projects or improve by applying latest best practices. Among others, I start to maintain [venn.js(https://github.com/upsetjs/venn.js) a JavaScript library for rendering euler diagrams. [bubblesets-js](https://github.com/upsetjs/bubblesets-js) for rendering bubble sets paths. Lastly, I forked [WebCola](https://github.com/sgratzl/WebCola) and improved its overall infrastructure. The corresponding PR is still pending.
+Another area of my projects is to maintain abandoned projects or improve by applying latest best practices. Among others, I start to maintain [venn.js](https://github.com/upsetjs/venn.js) a JavaScript library for rendering euler diagrams. [bubblesets-js](https://github.com/upsetjs/bubblesets-js) for rendering bubble sets paths. Lastly, I forked [WebCola](https://github.com/sgratzl/WebCola) and improved its overall infrastructure. The corresponding PR is still pending.
