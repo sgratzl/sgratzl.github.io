@@ -11,7 +11,7 @@ demo: https://lineup.js.org/app
 project-date: since 2013
 keywords: publication, multi-attribute, library
 category: Visualization Technique and JavaScript library
-technologies: typescript, sass, fontello, canvas, d3, webpack
+technologies: javascript, es6, babel
 ---
 
 LineUp is a visualization technique for multi-attribute rankings. It is implemented as reusable JavaScript library available at [lineup.js.org](https://lineup.js.org). It won the best paper award out of 152 submissions at IEEE InfoVis 2013 when it was orginally published. The paper and more information can be found on its [Caleydo Website](https://caleydo.org/publications/2013_infovis_lineup/). [Taggle](https://caleydo.org/publications/2019_sage_infovis_taggle/) is a recent publication about the new advanced features of LineUp.

@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: viime
-order: 6
+order: 8
 img: viime
 imgformat: png
 alt: VIIME
