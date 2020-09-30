@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: tdp
-order: 1
+order: 2
 img: tdp
 imgformat: jpg
 alt: Target Discovery Platform

@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: clue
-order: 9
+order: 5
 img: clue
 imgformat: png
 alt: "Vistories: From Visual Exploration to Storytelling and Back Again"

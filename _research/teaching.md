@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: teaching
-order: 4
+order: 3
 img: teaching
 imgformat: jpg
 alt: Teaching

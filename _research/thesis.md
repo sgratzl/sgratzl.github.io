@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: thesis
-order: 6
+order: 4
 img: thesis
 imgformat: png
 alt: Visually Guiding Users in Selection, Exploration, and Presentation Tasks

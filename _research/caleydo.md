@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: caleydo
-order: 7
+order: 6
 img: caleydo
 imgformat: png
 alt: Caleydo
