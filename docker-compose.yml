@@ -1,0 +1,9 @@
+version: '3.2'
+services:
+  hugo:
+    image: klakegg/hugo:ext-alpine
+    volumes:
+      - './:/src'
+    ports:
+      - '1313:1313'
+    command: serve

@@ -1,13 +1,13 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2022-12-17
 type: landing
 
 sections:
   - block: hero
     content:
-      title: Hugo Academic Theme
+      title: Samuel Gratzl
       image:
         filename: hero-academic.png
       cta:
