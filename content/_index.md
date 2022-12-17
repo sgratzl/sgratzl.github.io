@@ -38,8 +38,8 @@ sections:
           icon_pack: fas
         - name: TypeScript/JavaScript
           description: TODO
-          icon: camera-retro
-          icon_pack: fas
+          icon: js
+          icon_pack: fab
   - block: experience
     content:
       title: Experience
@@ -221,10 +221,10 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      # text: |-
+      #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: sam@sgratzl.com
+      email: contact@sgratzl.com
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
