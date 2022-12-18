@@ -2,11 +2,11 @@
 title: "Furby: Fuzzy Force-Directed Bicluster Visualization"
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# If you created a profile for a user (e.g. the default `sam` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Marc Streit
-- admin
+- sam
 - Michael Gillhofer
 - Andreas Mayr
 - Andreas Mitterecker

@@ -2,10 +2,10 @@
 title: "Domino: Extracting, Comparing, and Manipulating Subsets across Multiple Tabular Datasets"
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# If you created a profile for a user (e.g. the default `sam` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
+  - sam
   - Nils Gehlenborg
   - Alexander Lex
   - Hanspeter Pfister
