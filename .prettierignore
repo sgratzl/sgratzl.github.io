@@ -1,0 +1,10 @@
+/assets
+/public
+/resources
+*.pdf
+*.loc
+*.Rproj
+CNAME
+go.*
+.gitkeep
+*.toml

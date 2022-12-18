@@ -1,9 +1,10 @@
-version: '3.2'
+version: "3.2"
 services:
   hugo:
     image: klakegg/hugo:ext-alpine
     volumes:
-      - './:/src'
+      - "./:/src"
     ports:
-      - '1313:1313'
-    command: serve --disableFastRender
+      - "1313:1313"
+    # command: serve --disableFastRender
+    command: build
