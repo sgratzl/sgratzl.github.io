@@ -41,6 +41,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
+- name: Teaser Video
+  url: https://youtu.be/ri3ccKuUBYU
 - name: Supplementary Material
   url: https://data.jku-vds-lab.at/papers/2013_infovis_lineup_supplement.zip
 - name: LineUp Cheat Sheet
@@ -52,8 +54,8 @@ url_code: 'https://github.com/Caleydo/org.caleydo.view.lineup'
 url_poster: ''
 url_project: 'https://jku-vds-lab.at/tools/lineup/'
 url_slides: 'https//data.jku-vds-lab.at/papers/2013_infovis_lineup_talk.pdf'
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-# url_video: 'https://youtube.com'
+url_source: 'https://data.jku-vds-lab.at/papers/2013_infovis_lineup_talk.pptx'
+url_video: 'https://youtu.be/iFqCBI4T8ks'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -80,11 +82,11 @@ projects:
 
 # Citation
 
-Samuel Gratzl, Alexander Lex, Nils Gehlenborg, Hanspeter Pfister, and Marc Streit
-**LineUp: Visual Analysis of Multi-Attribute Rankings**
+Samuel Gratzl, Alexander Lex, Nils Gehlenborg, Hanspeter Pfister, and Marc Streit <br>
+**LineUp: Visual Analysis of Multi-Attribute Rankings** <br>
 IEEE Transactions on Visualization and Computer Graphics (InfoVis '13), 19(12): 2277--2286, [doi:10.1109/TVCG.2013.173](https://doi.org/10.1109/TVCG.2013.173), 2013.
 
-**IEEE InfoVis 2013 Best Paper Award**
+**<i class="fa fa-award"></i> IEEE InfoVis 2013 Best Paper Award**
 
 # Demo Data Sets
 

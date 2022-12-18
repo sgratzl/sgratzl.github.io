@@ -126,7 +126,7 @@ Demo:
 
 {{< chart data="line-chart" >}}
 
-You might also find the [Plotly JSON Editor](http://plotly-json-editor.getforge.io/) useful.
+You might also find the [Plotly JSON Editor](https://plotly-json-editor.getforge.io/) useful.
 
 ### Math
 

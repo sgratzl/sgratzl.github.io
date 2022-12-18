@@ -52,27 +52,64 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        # - title: CEO
-        #   company: GenCoin
-        #   company_url: ''
-        #   company_logo: org-gc
-        #   location: California
-        #   date_start: '2021-01-01'
-        #   date_end: ''
-        #   description: |2-
-        #       Responsibilities include:
-
-        #       * Analyzing
-        #       * Modelling
-        #       * Deploying
-        # - title: Professor of Semiconductor Physics
-        #   company: University X
-        #   company_url: ''
-        #   company_logo: org-x
-        #   location: California
-        #   date_start: '2016-01-01'
-        #   date_end: '2020-12-31'
-        #   description: Taught electronic engineering and researched semiconductor physics.
+        - title: Principal Research Engineer
+          company: Truveta Inc.
+          company_url: 'https://truveta.com'
+          # company_logo: org-gc
+          location: Remote
+          date_start: '2021-08-01'
+          date_end: ''
+          description: |2-
+            * Being part of the research team analyzing healthcare data and providing feedback on current product developments.
+            * Curated datasets based on the internal Truveta Platform.
+            * Developed processes and templates for effective healthcare studies, speeding up our study creation
+            * Created dashboards for Vaccine Effectiveness and Adverse Events of COVID-19 Vaccines
+            * Identified data quality issues and supported clinical informatics in tracking them down.
+            * Initiated and specified product features for advanced researcher experience.
+        - title: Research Software Engineer Contractor
+          company: Carnegie Mellon University
+          company_url: 'https://delphi.cmu.edu'
+          # company_logo: org-gc
+          location: Remote
+          date_start: '2020-07-01'
+          date_end: '2021-09-01'
+          description: |2-
+            * Main front end developer of COVIDcast, a project by the Delphi Group collecting, publishing, and visualizing COVID-19 data..
+            * Converted the front end from a research prototype to a production-ready product.
+            * Enforced code quality and best practices throughout the project.
+            * Improved usability, maintainability, and performance of COVIDcast.
+            * Designed and implemented new views such as the National Survey Results View, the most popular COVIDcast view.
+            * Designed and implemented a new version of the COVIDcast API with increased maintainability, scalability, and robustness.
+            * Developed and deployed a new deployment infrastructure for the Delphi group.
+        - title: Freelance Data Exploration and Visualization Consultant
+          company: Self Employed
+          company_url: ''
+          # company_logo: org-x
+          location: Linz, Austria
+          date_start: '2016-10-01'
+          date_end: '2022-03-01'
+          description: |2-
+            * I specialize in the design and implementation of customized visual exploration web applications.
+            * In close collaboration with the customer, I develop specialized visual exploration platforms that not only allow the customer to answer their questions but even those they haven't thought about yet.}
+            * In addition, I provide freelance service for integrating my open-source libraries, such as \href[LinUp-lite](https://lineup-lite.js.org), [LineUp.js](https://lineup.js.org), or [UpSet.js](https://upset.js.org)
+        - title: Co-founder and Chief Technology Officer (CTO)
+          company: datavisyn GmbH
+          company_url: 'https://datavisyn.io'
+          # company_logo: org-x
+          location: Linz, Austria
+          date_start: '2016-11-01'
+          date_end: '2019-04-01'
+          description: |2-
+            * Designed the architecture and implemented the Target Discovery Platform (TDP) with a focus on high extensibility and customizability. TDP is the foundation of all products of datavisyn and one of the three pillars of its business model.
+            * Built and deployed overall CI/CD infrastructure both in-house and on-premise focusing on high-availability, fault tolerance, and low maintenance.
+            * Lead on-site customer workshops focusing on requirements engineering, customer training, and initial prototype implementation.
+            * Improved project requirements to the satisfaction of the customer.
+            * Was the product owner for two agile customer projects which ended both in time and budget with highest customer satisfaction.
+            * Implemented critical features in all (4+) customer projects of datavisyn.
+            * Made customers happy through continuous customer support via Slack and quick response times.
+            * Lead, trained, and mentored the three junior developers.
+            * Did code reviews, introduced style guidelines, and introduced continuous testing to improve overall code quality.
+            * Ensured the head start of the company over competitors through integrating new technologies and frameworks.
     design:
       columns: '2'
   - block: accomplishments
@@ -88,6 +125,33 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        # TODO scholarships?
+        - title: Promotio sub auspiciis Praesidentis rei publicae
+          description: PhD graduation with highest possible honors in Austria
+          date_start: 2018-04-01
+          organization: Ministry for Science and Research of Austria, Vienna, Austria
+          # organization_url: https://jku.at
+        - title: Best Paper Award
+          description: TODO
+          date_start: 2017-10-01
+          organization: IEEE Information Visualization (InfoVis'17), Phoenix, USA
+        - title: Honorable Mention Best Paper Award
+          description: TODO
+          date_start: 2016-05-01
+          organization: EG/VGTC Conference on Visualization (EuroVis'16), Groningen, NL
+        - title: Honorable Mention Best Poster Award
+          description: TODO
+          date_start: 2015-10-01
+          organization: IEEE Information Visualization (InfoVis'15), Chicago, USA
+        - title: Honorable Mention Best Paper Award
+          description: TODO
+          date_start: 2014-10-01
+          organization: IEEE Information Visualization (InfoVis'14), Paris, France
+        - title: Best Paper Award
+          description: TODO
+          date_start: 2013-10-01
+          organization: IEEE Information Visualization (InfoVis'13), Atlanta, USA
+
         # - certificate_url: https://www.coursera.org
         #   date_end: ''
         #   date_start: '2021-01-25'
@@ -104,14 +168,7 @@ sections:
         #   organization_url: https://www.edx.org
         #   title: Blockchain Fundamentals
         #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        # - certificate_url: https://www.datacamp.com
-        #   date_end: '2020-12-21'
-        #   date_start: '2020-07-01'
-        #   description: ''
-        #   organization: DataCamp
-        #   organization_url: https://www.datacamp.com
-        #   title: 'Object-Oriented Programming in R'
-        #   url: ''
+
     design:
       columns: '2'
   - block: collection

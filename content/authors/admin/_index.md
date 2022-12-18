@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Software Engineer with a focus on Data Visualization
+role: Toolsmith for explorers of the information landscape on their treasure hunt for valuable insights
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,25 +22,26 @@ organizations:
   #   url: https://www.truveta.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: TODO
+bio: Research Software Engineer with a focus on interactive information visualization
 
 # Interests to show in About widget
 interests:
-  - TODO
+  - Interactive Data Exploration
+  - Open Source Visualization Libraries
+  -
 
 # Education to show in About widget
 education:
   courses:
-    # TODO
-    # - course: PhD in Artificial Intelligence
-    #   institution: Stanford University
-    #   year: 2012
-    # - course: MEng in Artificial Intelligence
-    #   institution: Massachusetts Institute of Technology
-    #   year: 2009
-    # - course: BSc in Artificial Intelligence
-    #   institution: Massachusetts Institute of Technology
-    #   year: 2008
+    - course: PhD in Computer Science
+      institution: Johannes Kepler University, Linz, Austria
+      year: 2017
+    - course: Msc in Pervasive Computing
+      institution: Johannes Kepler University, Linz, Austria
+      year: 2012
+    - course: BSc in Computer Science
+      institution: Johannes Kepler University, Linz, Austria
+      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -56,10 +57,10 @@ social:
   #   label: Follow me on Twitter
   #   display:
   #     header: true
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    # icon_pack: fas
-  - icon: google-scholar
-    icon_pack: ai
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+  # - icon: google-scholar
+    # icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=0xvEm-kAAAAJ
   - icon: github
     icon_pack: fab
@@ -81,5 +82,5 @@ email: ''
 highlight_name: true
 ---
 
-Samuel Gratzl is a passionate Information visualizer and experienced Software Architect. He loves to dig into code, hunt bugs, and design new platforms.
+Samuel Gratzl is a passionate Research Software Engineer with a focus on interactive information visualization. He is a Full Stack Developer with 10+ years of experience. He loves to dig into code, hunt bugs, and design new platforms. His goal is enabling researcher to discover more insights faster and easier.
 {style="text-align: justify;"}
