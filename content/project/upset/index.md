@@ -10,7 +10,7 @@ tags:
   - React Library
   - Vue Library
   - Vanilla Bundle
-date: '2020-01-01'
+date: "2020-01-01"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: 'https://lineup.js.org'
@@ -28,11 +28,10 @@ links:
     icon_pack: fa
     name: Demo Application
     url: https://upset.js.org/app
-url_code: 'https://github.com/upsetjs/upsetjs'
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
+url_code: "https://github.com/upsetjs/upsetjs"
+url_pdf: ""
+url_slides: ""
+url_video: ""
 ---
 
 UpSet.js is a JavaScript re-implementation of [UpSetR](https://www.rdocumentation.org/packages/UpSetR/) which itself is based on [UpSet](https://vcg.github.io/upset/about/).

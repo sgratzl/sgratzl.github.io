@@ -54,11 +54,11 @@ sections:
       items:
         - title: Principal Research Engineer
           company: Truveta Inc.
-          company_url: 'https://truveta.com'
+          company_url: "https://truveta.com"
           # company_logo: org-gc
           location: Remote
-          date_start: '2021-08-01'
-          date_end: ''
+          date_start: "2021-08-01"
+          date_end: ""
           description: |2-
             * Being part of the research team analyzing healthcare data and providing feedback on current product developments.
             * Curated datasets based on the internal Truveta Platform.
@@ -68,11 +68,11 @@ sections:
             * Initiated and specified product features for advanced researcher experience.
         - title: Research Software Engineer Contractor
           company: Carnegie Mellon University
-          company_url: 'https://delphi.cmu.edu'
+          company_url: "https://delphi.cmu.edu"
           # company_logo: org-gc
           location: Remote
-          date_start: '2020-07-01'
-          date_end: '2021-09-01'
+          date_start: "2020-07-01"
+          date_end: "2021-09-01"
           description: |2-
             * Main front end developer of COVIDcast, a project by the Delphi Group collecting, publishing, and visualizing COVID-19 data..
             * Converted the front end from a research prototype to a production-ready product.
@@ -83,22 +83,22 @@ sections:
             * Developed and deployed a new deployment infrastructure for the Delphi group.
         - title: Freelance Data Exploration and Visualization Consultant
           company: Self Employed
-          company_url: ''
+          company_url: ""
           # company_logo: org-x
           location: Linz, Austria
-          date_start: '2016-10-01'
-          date_end: '2022-03-01'
+          date_start: "2016-10-01"
+          date_end: "2022-03-01"
           description: |2-
             * I specialize in the design and implementation of customized visual exploration web applications.
             * In close collaboration with the customer, I develop specialized visual exploration platforms that not only allow the customer to answer their questions but even those they haven't thought about yet.}
             * In addition, I provide freelance service for integrating my open-source libraries, such as \href[LinUp-lite](https://lineup-lite.js.org), [LineUp.js](https://lineup.js.org), or [UpSet.js](https://upset.js.org)
         - title: Co-founder and Chief Technology Officer (CTO)
           company: datavisyn GmbH
-          company_url: 'https://datavisyn.io'
+          company_url: "https://datavisyn.io"
           # company_logo: org-x
           location: Linz, Austria
-          date_start: '2016-11-01'
-          date_end: '2019-04-01'
+          date_start: "2016-11-01"
+          date_end: "2019-04-01"
           description: |2-
             * Designed the architecture and implemented the Target Discovery Platform (TDP) with a focus on high extensibility and customizability. TDP is the foundation of all products of datavisyn and one of the three pillars of its business model.
             * Built and deployed overall CI/CD infrastructure both in-house and on-premise focusing on high-availability, fault tolerance, and low maintenance.
@@ -111,11 +111,11 @@ sections:
             * Did code reviews, introduced style guidelines, and introduced continuous testing to improve overall code quality.
             * Ensured the head start of the company over competitors through integrating new technologies and frameworks.
     design:
-      columns: '2'
+      columns: "2"
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: "Accomplish&shy;ments"
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -170,7 +170,7 @@ sections:
         #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 
     design:
-      columns: '2'
+      columns: "2"
   # - block: collection
   #   id: posts
   #   content:
@@ -214,7 +214,7 @@ sections:
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
         - name: All
-          tag: '*'
+          tag: "*"
         - name: Open Source
           tag: Open Source
         - name: JavaScript
@@ -229,7 +229,7 @@ sections:
         #   tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: "1"
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
@@ -239,8 +239,8 @@ sections:
   #     subtitle: ''
   #     text: |-
   #       {{< gallery album="demo" >}}
-    # design:
-    #   columns: '1'
+  # design:
+  #   columns: '1'
   - block: portfolio
     id: research
     content:
@@ -257,14 +257,14 @@ sections:
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
         - name: All
-          tag: '*'
+          tag: "*"
         - name: Visualization Technique
         #   tag: Deep Learning
         # - name: Other
         #   tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: "1"
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
@@ -274,8 +274,8 @@ sections:
   #     subtitle: ''
   #     text: |-
   #       {{< gallery album="demo" >}}
-    # design:
-    #   columns: '1'
+  # design:
+  #   columns: '1'
   - block: collection
     id: featured
     content:
@@ -285,7 +285,7 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '2'
+      columns: "2"
       view: card
   - block: collection
     content:
@@ -299,7 +299,7 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '2'
+      columns: "2"
       view: citation
   # - block: collection
   #   id: talks
@@ -331,7 +331,7 @@ sections:
         street:
         city: Marlton
         region: NJ
-        postcode: '08053'
+        postcode: "08053"
         country: United States
         country_code: US
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
@@ -362,5 +362,5 @@ sections:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:
-      columns: '2'
+      columns: "2"
 ---

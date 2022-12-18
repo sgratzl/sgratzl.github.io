@@ -14,7 +14,7 @@ tags:
   - Parallel Coordinates Plot
   - Word Cloud
   - Error Bars
-date: '2018-01-01'
+date: "2018-01-01"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: 'https://lineup.js.org'
@@ -28,11 +28,10 @@ links:
   #   icon_pack: fa
   #   name: Minizinc Web IDE
   #   url: https://minizinc-ide.netlify.com/
-url_code: 'https://github.com/sgratzl?q=chartjs'
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
+url_code: "https://github.com/sgratzl?q=chartjs"
+url_pdf: ""
+url_slides: ""
+url_video: ""
 ---
 
 [Chart.js](https://www.chartjs.org/) is a JavaScript charting library based on HTML Canvas. It support various basic chart types but also allow developers to extend the framework using plugins. Over the last two years I created several plugins that improve the library and add new chart types as well as contributed to Chart.js itself:

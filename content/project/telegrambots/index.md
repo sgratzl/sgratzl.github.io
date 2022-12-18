@@ -10,7 +10,7 @@ tags:
   - Netlify
   - Telegram
 
-date: '2019-01-01'
+date: "2019-01-01"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: 'https://lineup.js.org'
@@ -33,10 +33,9 @@ links:
     icon_pack: fa
     url: https://t.me/developer_webhook_bot
 # url_code: 'https://github.com/sgratzl/developer_webhook_bot'
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
+url_pdf: ""
+url_slides: ""
+url_video: ""
 ---
 
 [Telegram](https://telegram.org/) is a sweet instant messenger with various different security features. However, from a developer point of view the most interesting part is the easy development of custom [Telegram Bots](https://core.telegram.org/bots). Bot are really nice especially when it comes to developer information such as Github notifications.

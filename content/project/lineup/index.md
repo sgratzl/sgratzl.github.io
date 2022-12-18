@@ -10,7 +10,7 @@ tags:
   - Jupyter
   - R
 
-date: '2013-01-01'
+date: "2013-01-01"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: 'https://lineup.js.org'
@@ -28,11 +28,10 @@ links:
     icon_pack: fa
     name: Demo Application
     url: https://lineup.js.org/app
-url_code: 'https://github.com/lineupjs/lineupjs'
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
+url_code: "https://github.com/lineupjs/lineupjs"
+url_pdf: ""
+url_slides: ""
+url_video: ""
 ---
 
 LineUp is a visualization technique for multi-attribute rankings. It is implemented as reusable JavaScript library available at [lineup.js.org](https://lineup.js.org). It won the best paper award out of 152 submissions at IEEE InfoVis 2013 when it was originally published. The paper and more information can be found on its [Caleydo Website](https://caleydo.org/publications/2013_infovis_lineup/). [Taggle](https://caleydo.org/publications/2019_sage_infovis_taggle/) is a recent publication about the new advanced features of LineUp.

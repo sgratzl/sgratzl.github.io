@@ -82,19 +82,16 @@ Marc Streit, Samuel Gratzl, Michael Gillhofer, Andreas Mayr, Andreas Mitterecker
 **Furby: Fuzzy Force-Directed Bicluster Visualization** <br>
 BMC Bioinformatics, 15(Suppl 6), p. S4, 15(Suppl 6): S4, [doi:10.1186/1471-2105-15-S6-S4](https://dx.doi.org/10.1186/1471-2105-15-S6-S4), 2014.
 
-
-Datasets
-========
+# Datasets
 
 The following projects contain public demo data, which can be used to test Furby. But everyone is welcome to load his/her own data, via the `Load BiCluster Results` tab within the Caleydo Startup-Wizard.
 
-* <i class="fa fa-download"></i>&nbsp;[Caleydo-Project (CAL)](https://data.jku-vds-lab.at/papers/2014_bmc_furby_multi_tissue_fabia20.cal) containing Microarray data from Broad Institute "Cancer Program Data Sets" which was produced by [Su et al. 2002](https://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi). It consists of 102 samples and 5565 genes as was clustered using the FABIA algorithm.
-* <i class="fa fa-download"></i>&nbsp;[Zip package (ZIP)](https://data.jku-vds-lab.at/papers/2014_bmc_furby_multi_tissue_fabia20.zip) containing the exported CSV-files using to create the previous Caleydo-Project
+- <i class="fa fa-download"></i>&nbsp;[Caleydo-Project (CAL)](https://data.jku-vds-lab.at/papers/2014_bmc_furby_multi_tissue_fabia20.cal) containing Microarray data from Broad Institute "Cancer Program Data Sets" which was produced by [Su et al. 2002](https://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi). It consists of 102 samples and 5565 genes as was clustered using the FABIA algorithm.
+- <i class="fa fa-download"></i>&nbsp;[Zip package (ZIP)](https://data.jku-vds-lab.at/papers/2014_bmc_furby_multi_tissue_fabia20.zip) containing the exported CSV-files using to create the previous Caleydo-Project
 
-Utilities
-=========
+# Utilities
 
 We provide two helper R-Scripts, which simplify exporting R bicluster results in the correct format.
 
-* <i class="fa fa-download"></i>&nbsp;[R-Script](https://data.jku-vds-lab.at/papers/2014_bmc_furby_export_fabia.R) for exporting FABIA results, generated via the [fabia](https://www.bioconductor.org/packages/2.12/bioc/html/fabia.html) bioconductor package.
-* <i class="fa fa-download"></i>&nbsp;[R-Script](https://data.jku-vds-lab.at/papers/2014_bmc_furby_export_biclust.R) for exporting result from the [biclust](https://cran.r-project.org/web/packages/biclust/index.html) CRAN package.
+- <i class="fa fa-download"></i>&nbsp;[R-Script](https://data.jku-vds-lab.at/papers/2014_bmc_furby_export_fabia.R) for exporting FABIA results, generated via the [fabia](https://www.bioconductor.org/packages/2.12/bioc/html/fabia.html) bioconductor package.
+- <i class="fa fa-download"></i>&nbsp;[R-Script](https://data.jku-vds-lab.at/papers/2014_bmc_furby_export_biclust.R) for exporting result from the [biclust](https://cran.r-project.org/web/packages/biclust/index.html) CRAN package.

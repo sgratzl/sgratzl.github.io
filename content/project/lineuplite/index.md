@@ -7,7 +7,7 @@ tags:
   - JavaScript
   - React
 
-date: '2020-01-01'
+date: "2020-01-01"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: 'https://lineup.js.org'
@@ -21,11 +21,10 @@ links:
     icon_pack: fa
     name: Website
     url: https://lineup-lite.js.org
-url_code: 'https://github.com/sgratzl/lineup-lite'
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
+url_code: "https://github.com/sgratzl/lineup-lite"
+url_pdf: ""
+url_slides: ""
+url_video: ""
 ---
 
 [LineUp-lite](https://lineup-lite.js.org) is a reimplentation of my [LineUp.js](https://lineup.js.org) LineUp visualization library.

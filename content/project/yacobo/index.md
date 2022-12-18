@@ -10,7 +10,7 @@ tags:
   - COVIDcast
   - React
   - Next.js
-date: '2019-09-01'
+date: "2019-09-01"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: 'https://lineup.js.org'
@@ -24,11 +24,10 @@ links:
     icon_pack: fa
     name: Demo
     url: https://yacobo.vercel.app
-url_code: 'https://github.com/sgratz/yacobo'
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
+url_code: "https://github.com/sgratz/yacobo"
+url_pdf: ""
+url_slides: ""
+url_video: ""
 ---
 
 YaCoBo (Yet another COVID-19 Board) is a dashboard application visualizing COVID-19 data for the US. YaCoBo is hosted at https://yacobo.vercel.app/. It shows data from the [Delphi Group at Carnegie Mellon University](https://delphi.cmu.edu/) which they collect as part of the [COVIDcast](https://covidcast.cmu.edu) project.

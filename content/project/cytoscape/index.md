@@ -8,7 +8,7 @@ tags:
   - Cytoscape
   - Graph
   - Bubblesets
-date: '2020-01-01'
+date: "2020-01-01"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: 'https://lineup.js.org'
@@ -25,10 +25,9 @@ links:
   - name: Code (Overlays Plugin)
     url: https://github.com/upsetjs/cytoscape.js-overlays
 # url_code: 'https://github.com/sgratzl?q=cytoscape'
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
+url_pdf: ""
+url_slides: ""
+url_video: ""
 ---
 
 [Cytoscape.js](https://js.cytoscape.org/) is a JavaScript network visualization library. It support various basic node customizations but also allow developers to extend the framework using plugins. Over the last two years I created several plugins that improve the library:
