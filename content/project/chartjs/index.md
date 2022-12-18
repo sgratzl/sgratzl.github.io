@@ -5,6 +5,11 @@ tags:
   - TypeScript Library
   - Chart.js
   - HTML Canvas
+  - Graph
+  - Geo
+  - Venn Diagram
+  - Parallel Coordinates Plot
+  - Word Cloud
 date: '2018-01-01'
 
 # Optional external URL for project (replaces project detail page).
