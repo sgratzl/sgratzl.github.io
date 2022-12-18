@@ -1,12 +1,12 @@
 ---
 title: "UpSet.js"
-summary: UpSet.js is a JavaScript re-implementation of [UpSetR]rankings which is an implementation of UpSet
+summary: UpSet.js is a JavaScript re-implementation of UpSetR which is an implementation of the UpSet visualization technique
 tags:
   - TypeScript/JavaScript Library
   - Jupyter Widget Library
   - R Package
-  - React Library Adapter
-  - Vue Library Adapter
+  - React Library
+  - Vue Library
   - Vanilla Bundle
 date: '2020-01-01'
 
@@ -14,7 +14,7 @@ date: '2020-01-01'
 # external_link: 'https://lineup.js.org'
 
 image:
-  caption: LineUp.js Higher Times University Ranking Exploration
+  caption: Example UpSet.js plot with highlights
   focal_point: Smart
 
 links:

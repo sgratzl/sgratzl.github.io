@@ -1,6 +1,6 @@
 ---
 title: "YaCoBo - Yet another COVID-19 board"
-summary: TODO
+summary: YaCoBo is dashboard application for COVID-19 COVIDcast data
 tags:
   - Open Source
   - JavaScript/TypeScript Library
@@ -14,7 +14,7 @@ date: '2019-09-01'
 # external_link: 'https://lineup.js.org'
 
 image:
-  caption: TODO
+  # caption: TODO
   focal_point: Smart
 
 links:

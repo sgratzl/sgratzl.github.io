@@ -1,5 +1,5 @@
 ---
-title: "Slack Cleaner 2"
+title: Slack Cleaner 2
 summary: Modularized Version of the abandoned slack_cleaner utility
 tags:
   - Python Library
@@ -16,10 +16,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: external-link
-    icon_pack: fa
-    name:
-    url: https://upset.js.org/app
+  # - icon: external-link
+  #   icon_pack: fa
+  #   name:
+  #   url: https://upset.js.org/app
 url_code: 'https://github.com/sgratzl/slack-cleaner2'
 url_pdf: ''
 url_slides: ''

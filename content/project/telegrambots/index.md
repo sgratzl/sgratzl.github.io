@@ -1,11 +1,12 @@
 ---
-title: "Telegram Bots"
+title: Telegram Bots
 summary: Custom Bots for Telegram Messenger
 tags:
   - Open Source
   - Serverless
   - MongoDB
   - Netlify
+  - Telegram
 
 date: '2019-01-01'
 
@@ -13,19 +14,23 @@ date: '2019-01-01'
 # external_link: 'https://lineup.js.org'
 
 image:
-  caption: Telegram Bots
+  # caption: Telegram Bots
   focal_point: Smart
 
 links:
-  - icon: external-link
+  - name: Code (Webhooks)
+    # icon: external-link
+    # icon_pack: fa
+    url: https://github.com/sgratzl/developer_webhook_bot
+  - name: Code (RSS Bot)
+    # icon: external-link
+    # icon_pack: fa
+    url: https://github.com/sgratzl/yet_another_rss_bot
+  - name: Telegram Bot
+    icon: external-link
     icon_pack: fa
-    name: Bot Link
     url: https://t.me/developer_webhook_bot
-  - icon: code
-    icon_pack: fa
-    name: https://github.com/sgratzl/yet_another_rss_bot
-    url: https://lineup.js.org/app
-url_code: 'https://github.com/sgratzl/developer_webhook_bot'
+# url_code: 'https://github.com/sgratzl/developer_webhook_bot'
 url_pdf: ''
 url_slides: ''
 url_video: ''

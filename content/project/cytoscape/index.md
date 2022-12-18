@@ -1,22 +1,31 @@
 ---
-title: "Cytoscape.js Plugins"
-summary: TODO
+title: Cytoscape.js Plugins
+summary: Cytoscape.js is a population graph visualization library. I created several plugins for it
 tags:
   - Open Source
   - JavaScript/TypeScript Library
   - Cytoscape
   - Graph
+  - Bubblesets
+  - Annotation
+  - Layers
 date: '2020-01-01'
 
 # Optional external URL for project (replaces project detail page).
 # external_link: 'https://lineup.js.org'
 
 image:
-  caption: TODO
+  # caption: TODO
   focal_point: Smart
 
 links:
-url_code: 'https://github.com/sgratzl?q=cytoscape'
+  - name: Code (Layers Plugin)
+    url: https://github.com/sgratzl/cytoscape.js-layers
+  - name: Code (BubbleSet Plugin)
+    url: https://github.com/upsetjs/cytoscape.js-bubblesets
+  - name: Code (Overlays Plugin)
+    url: https://github.com/upsetjs/cytoscape.js-overlays
+# url_code: 'https://github.com/sgratzl?q=cytoscape'
 url_pdf: ''
 url_slides: ''
 url_video: ''
