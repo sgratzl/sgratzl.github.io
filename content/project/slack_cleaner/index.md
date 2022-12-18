@@ -2,7 +2,7 @@
 title: Slack Cleaner 2
 summary: Modularized Version of the abandoned slack_cleaner utility
 tags:
-  - Python Library
+  - Python
   - Slack
   - Open Source
   - Maintain Abandoned Project

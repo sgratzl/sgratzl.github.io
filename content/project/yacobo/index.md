@@ -3,7 +3,9 @@ title: "YaCoBo - Yet another COVID-19 board"
 summary: YaCoBo is dashboard application for COVID-19 COVIDcast data
 tags:
   - Open Source
-  - JavaScript/TypeScript Library
+  - JavaScript
+  - TypeScript
+  - Library
   - COVID-19
   - COVIDcast
   - React

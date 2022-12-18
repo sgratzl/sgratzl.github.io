@@ -3,7 +3,8 @@ title: LineUp-lite
 summary: LineUp-lite is a React based simplified reimplementation of LineUp.js
 tags:
   - Open Source
-  - TypeScript/JavaScript Library
+  - TypeScript
+  - JavaScript
   - React
 
 date: '2020-01-01'

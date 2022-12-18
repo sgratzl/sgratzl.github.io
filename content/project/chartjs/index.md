@@ -2,7 +2,9 @@
 title: Chart.js Plugins
 summary: Chart.js is a popular Canvas based JavaScript visualization library. I created several plugins for it
 tags:
-  - TypeScript Library
+  - Open Source
+  - TypeScript
+  - JavaScript
   - Chart.js
   - HTML Canvas
   - Graph

@@ -7,6 +7,9 @@ tags:
   - D3
   - Emscripten
   - WebAssembly
+  - JavaScript
+  - TypeScript
+  - Open Source
 date: '2019-05-01'
 
 # Optional external URL for project (replaces project detail page).

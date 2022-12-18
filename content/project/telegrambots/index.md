@@ -3,6 +3,8 @@ title: Telegram Bots
 summary: Custom Bots for Telegram Messenger
 tags:
   - Open Source
+  - JavaScript
+  - TypeScript
   - Serverless
   - MongoDB
   - Netlify

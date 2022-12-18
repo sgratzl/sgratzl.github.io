@@ -3,12 +3,11 @@ title: Cytoscape.js Plugins
 summary: Cytoscape.js is a population graph visualization library. I created several plugins for it
 tags:
   - Open Source
-  - JavaScript/TypeScript Library
+  - JavaScript
+  - TypeScript
   - Cytoscape
   - Graph
   - Bubblesets
-  - Annotation
-  - Layers
 date: '2020-01-01'
 
 # Optional external URL for project (replaces project detail page).

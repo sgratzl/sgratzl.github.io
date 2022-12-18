@@ -3,7 +3,8 @@ title: Maintain Abandoned Projects
 summary: Maintaining Venn.js, and Bubblesets.js
 tags:
   - Open Source
-  - JavaScript/TypeScript Library
+  - JavaScript
+  - TypeScript
   - Bubbleset
   - Venn Diagram
   - Euler Diagram

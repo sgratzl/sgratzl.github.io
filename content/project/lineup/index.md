@@ -4,9 +4,11 @@ summary: LineUp is a visualization technique for multi-attribute rankings
 tags:
   - Publication
   - Open Source
-  - TypeScript/JavaScript Library
-  - Jupyter Widget Library
-  - R Package
+  - TypeScript
+  - JavaScript
+  - Python
+  - Jupyter
+  - R
 
 date: '2013-01-01'
 

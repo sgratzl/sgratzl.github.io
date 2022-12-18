@@ -2,9 +2,11 @@
 title: "UpSet.js"
 summary: UpSet.js is a JavaScript re-implementation of UpSetR which is an implementation of the UpSet visualization technique
 tags:
-  - TypeScript/JavaScript Library
-  - Jupyter Widget Library
-  - R Package
+  - TypeScript
+  - JavaScript
+  - Python
+  - Jupyter
+  - R
   - React Library
   - Vue Library
   - Vanilla Bundle
