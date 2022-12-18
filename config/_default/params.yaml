@@ -8,7 +8,8 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: minimal
+  # font: minimal
+  font: native
   font_size: L
 
 # SEO
@@ -102,10 +103,12 @@ features:
 
 extensions:
   cms:
+    netlify_cms: false
+    enable: false
     branch: main
     local_backend: false
   academicons:
-    enable: true
+    enable: false
 
 # Security
 
