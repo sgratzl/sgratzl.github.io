@@ -29,7 +29,7 @@ summary:
 
 tags:
   - tool
-  - web based
+  - Web Based
   - minizinc
 
 # Display this page in the Featured widget?

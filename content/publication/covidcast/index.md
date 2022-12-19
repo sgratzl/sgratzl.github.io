@@ -91,7 +91,7 @@ summary:
 
 tags:
   - COVID-19
-  - web based
+  - Web Based
 
 # Display this page in the Featured widget?
 featured: true

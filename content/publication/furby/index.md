@@ -33,7 +33,7 @@ abstract: "<p><b>Background:</b> Cluster analysis is widely used to discover pat
 <p><b>Conclusions:</b> The proposed tool allows analysts to assess the overall quality of a biclustering result. Based on this high-level overview, analysts can then interactively explore the individual biclusters in detail. This novel way of handling fuzzy clustering results also supports analysts in finding the optimal thresholds that lead to the best clusters.</p>"
 
 # Summary. An optional shortened abstract.
-summary: TODO
+summary:
 
 tags:
  - Visualization Technique

@@ -31,8 +31,8 @@ abstract: |2-
 summary:
 
 tags:
-  - visualization technique
-  - web based
+  - Visualization Technique
+  - Web Based
   - lineup
 
 # Display this page in the Featured widget?

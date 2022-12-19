@@ -34,7 +34,7 @@ summary:
 
 tags:
   - tool
-  - web based
+  - Web Based
 
 # Display this page in the Featured widget?
 featured: false

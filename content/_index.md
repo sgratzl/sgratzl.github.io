@@ -28,18 +28,31 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: TODO
-          icon: r-project
+        - name: Information Visualization
+          description: D3, Vega, Plot.ly, ggplot2, matplotlib, Tableau, PowerBI
+          icon: chart-simple
+          icon_pack: fa
+        - name: Data Science
+          description: Jupyter, RMarkdown, Quarto, Dash, RShiny, tidyverse, pandas, numpy
+          icon: flask
+          icon_pack: fa
+        - name: Databases
+          description: PostgresSQL, SQLServer, MongoDB, Redis, ElasticSearch, Neo4j, SQL
+          icon: database
+          icon_pack: fa
+        - name: Frontend Developer
+          description: JavaScript/Typescript, React, Svelte, Vue
+          icon: html5
           icon_pack: fab
-        - name: Python
-          description: TODO
-          icon: chart-line
-          icon_pack: fas
-        - name: TypeScript/JavaScript
-          description: TODO
-          icon: js
-          icon_pack: fab
+        - name: Backend Developer
+          description: R, Python, FastAPI, REST, Swagger, OpenAPI, GraphQL
+          icon: server
+          icon_pack: fa
+        - name: DevOps
+          description: GitHub, Git, Kubernetes, GitHub Action, Google Cloud, AWS
+          icon: bars-progress
+          icon_pack: fa
+
   - block: experience
     content:
       title: Experience
@@ -132,23 +145,23 @@ sections:
           organization: Ministry for Science and Research of Austria, Vienna, Austria
           # organization_url: https://jku.at
         - title: Best Paper Award
-          description: TODO
+          description: Provenance-Based Visualization Retrieval
           date_start: 2017-10-01
           organization: IEEE Information Visualization (InfoVis'17), Phoenix, USA
         - title: Honorable Mention Best Paper Award
-          description: TODO
+          description: "Pathfinder: Visual Analysis of Paths in Graphs"
           date_start: 2016-05-01
           organization: EG/VGTC Conference on Visualization (EuroVis'16), Groningen, NL
-        - title: Honorable Mention Best Poster Award
-          description: TODO
-          date_start: 2015-10-01
-          organization: IEEE Information Visualization (InfoVis'15), Chicago, USA
+        # - title: Honorable Mention Best Poster Award
+        #   description: TODO
+        #   date_start: 2015-10-01
+        #   organization: IEEE Information Visualization (InfoVis'15), Chicago, USA
         - title: Honorable Mention Best Paper Award
-          description: TODO
+          description: "Domino: Extracting, Comparing, and Manipulating Subsets across Multiple Tabular Datasets"
           date_start: 2014-10-01
           organization: IEEE Information Visualization (InfoVis'14), Paris, France
         - title: Best Paper Award
-          description: TODO
+          description: "LineUp: Visual Analysis of Multi-Attribute Rankings"
           date_start: 2013-10-01
           organization: IEEE Information Visualization (InfoVis'13), Atlanta, USA
 

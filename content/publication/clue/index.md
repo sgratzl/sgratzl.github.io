@@ -29,7 +29,7 @@ summary:
 
 tags:
   - provenance
-  - web based
+  - Web Based
 
 # Display this page in the Featured widget?
 featured: true
