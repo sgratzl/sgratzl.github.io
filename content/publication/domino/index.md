@@ -25,14 +25,15 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: IEEE Transactions on Visualization and Computer Graphics (InfoVis '14)
-publication_short: In TVCG (InfoVis '14)
+publication_short: InfoVis '14
 
-abstract: "<p>Answering questions about complex issues often requires analysts to take into account information contained in multiple interconnected datasets. A common strategy in analyzing and visualizing large and heterogeneous data is dividing it into meaningful subsets. Interesting subsets can then be selected and the associated data and the relationships between the subsets visualized. However, neither the extraction and manipulation nor the comparison of subsets is well supported by state-of-the-art techniques. </p>
-<p>
-In this paper we present Domino, a novel multiform visualization technique for effectively representing subsets and the relationships between them. By providing comprehensive tools to arrange, combine, and extract subsets, Domino allows users to create both common visualization techniques and advanced visualizations tailored to specific use cases. In addition to the novel technique, we present an implementation that enables analysts to manage the wide range of options that our approach offers. Innovative interactive features such as placeholders and live previews support rapid creation of complex analysis setups. We introduce the technique and the implementation using a simple example and demonstrate scalability and effectiveness in a use case from the field of cancer genomics.</p>"
+abstract: |2-
+  Answering questions about complex issues often requires analysts to take into account information contained in multiple interconnected datasets. A common strategy in analyzing and visualizing large and heterogeneous data is dividing it into meaningful subsets. Interesting subsets can then be selected and the associated data and the relationships between the subsets visualized. However, neither the extraction and manipulation nor the comparison of subsets is well supported by state-of-the-art techniques.
+
+  In this paper we present Domino, a novel multiform visualization technique for effectively representing subsets and the relationships between them. By providing comprehensive tools to arrange, combine, and extract subsets, Domino allows users to create both common visualization techniques and advanced visualizations tailored to specific use cases. In addition to the novel technique, we present an implementation that enables analysts to manage the wide range of options that our approach offers. Innovative interactive features such as placeholders and live previews support rapid creation of complex analysis setups. We introduce the technique and the implementation using a simple example and demonstrate scalability and effectiveness in a use case from the field of cancer genomics.
 
 # Summary. An optional shortened abstract.
-summary: TODO
+summary:
 
 tags:
  - Heterogenous Data
@@ -46,19 +47,19 @@ links:
 - name: Teaser Video
   url: https://www.youtube.com/watch?v=2XFIBxmlpG0
 
-url_pdf: 'https://data.jku-vds-lab.at/papers/2014_infovis_domino.pdf'
-url_code: 'https://github.com/Caleydo/org.caleydo.view.domino'
-url_dataset: 'https://data.jku-vds-lab.at/papers/2014_infovis_domino_number_ones.zip'
-url_poster: ''
-url_project: 'https://jku-vds-lab.at/tools/domino/'
-url_slides: 'https://sgratzl.github.io/domino_vis2014/'
-# url_source: 'https://data.jku-vds-lab.at/papers/2013_infovis_lineup_talk.pptx'
-url_video: 'https://www.youtube.com/watch?v=bm59Y8QYbAQ'
+url_pdf: https://data.jku-vds-lab.at/papers/2014_infovis_domino.pdf
+url_code: https://github.com/Caleydo/org.caleydo.view.domino
+url_dataset: https://data.jku-vds-lab.at/papers/2014_infovis_domino_number_ones.zip
+url_poster:
+url_project: https://jku-vds-lab.at/tools/domino/
+url_slides: https://sgratzl.github.io/domino_vis2014/
+# url_source: https://data.jku-vds-lab.at/papers/2013_infovis_lineup_talk.pptx
+url_video: https://www.youtube.com/watch?v=bm59Y8QYbAQ
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Domino Teaser Image'
+  # caption: 'Domino Teaser Image'
   focal_point: ''
   preview_only: false
 

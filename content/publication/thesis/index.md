@@ -5,7 +5,7 @@ authors:
   - sam
 
 date: 2017-04-01
-doi: ""
+# doi: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,12 +27,7 @@ tags:
   - thesis
 
 # Display this page in the Featured widget?
-featured: false
-
-# Custom links (uncomment lines below)
-# links:
-#   - name:
-#     url:
+featured: true
 
 url_pdf: http://data.jku-vds-lab.at/papers/2017_phd_thesis_gratzl.pdf
 # url_code: https://github.com/Caleydo/org.caleydo.view.lineup
@@ -42,6 +37,11 @@ url_pdf: http://data.jku-vds-lab.at/papers/2017_phd_thesis_gratzl.pdf
 # url_slides: https//data.jku-vds-lab.at/papers/2013_infovis_lineup_talk.pdf
 # url_source: https://data.jku-vds-lab.at/papers/2013_infovis_lineup_talk.pptx
 # url_video: https://youtu.be/iFqCBI4T8ks
+
+# Custom links (uncomment lines below)
+# links:
+#   - name:
+#     url:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -66,7 +66,6 @@ projects:
 ---
 
 # Citation
-
 
 Samuel Gratzl <br>
 **Visually Guiding Users in Selection, Exploration, and Presentation Tasks** <br>

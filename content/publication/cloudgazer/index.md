@@ -18,25 +18,23 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In Proceedings of IEEE Pacific Visualization Symposium (PacificVis '15)
-publication_short: In PacificVis '15
+publication_short: PacificVis '15
 
 abstract: |2-
   With the rise of virtualization and cloud-based networks of various scales and degrees of complexity, new approaches to managing such infrastructures are required. In these networks, relationships among components can be of arbitrary cardinality (1:1, 1:n, n:m), making it challenging for administrators to investigate which components influence others. In this paper we present CloudGazer, a scalable visualization system that allows users to monitor and optimize cloud-based networks effectively to reduce energy consumption and to increase the quality of service. Instead of visualizing the overall network, we split the graph into semantic perspectives that provide a much simpler view of the network. CloudGazer is a multiple coordinated view system that visualizes either static or live status information about the components of a perspective while reintroducing lost inter-perspective relationships on demand using dynamically created inlays. We demonstrate the effectiveness of CloudGazer in two usage scenarios: The first is based on a real- world network of our domain partners where static performance parameters are used to find an optimal design. In the second scenario we use the VAST 2013 Challenge dataset to demonstrate how the system can be employed with live streaming data.
 
 # Summary. An optional shortened abstract.
-summary: CloudGazer is a visualization technique for cloud-based network graphs
+# summary:
 
 tags:
   - visualization technique
   - web based
+  - network
+  - graph
 
 # Display this page in the Featured widget?
 featured: false
 
-# Custom links (uncomment lines below)
-links:
-  # - name:
-  #   url:
 
 url_pdf: http://data.jku-vds-lab.at/papers/2015_pacificvis_cloudgazer.pdf
 # url_code: https://github.com/Caleydo/org.caleydo.view.lineup
@@ -46,6 +44,11 @@ url_pdf: http://data.jku-vds-lab.at/papers/2015_pacificvis_cloudgazer.pdf
 # url_slides: https//data.jku-vds-lab.at/papers/2013_infovis_lineup_talk.pdf
 # url_source: https://data.jku-vds-lab.at/papers/2013_infovis_lineup_talk.pptx
 # url_video: https://youtu.be/iFqCBI4T8ks
+
+# Custom links (uncomment lines below)
+links:
+  # - name:
+  #   url:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

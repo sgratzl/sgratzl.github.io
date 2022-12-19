@@ -25,9 +25,10 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In IEEE Transactions on Visualization and Computer Graphics (InfoVis '13)
-publication_short: In InfoVis '13
+publication_short: InfoVis '13
 
-abstract: "<p>Rankings are a popular and universal approach to structuring otherwise unorganized collections of items by computing a rank for each item based on the value of one or more of its attributes. This allows us, for example, to prioritize tasks or to evaluate the performance of products relative to each other. While the visualization of a ranking itself is straightforward, its interpretation is not, because the rank of an item represents only a summary of a potentially complicated relationship between its attributes and those of the other items. It is also common that alternative rankings exist which need to be compared and analyzed to gain insight into how multiple heterogeneous attributes affect the rankings. Advanced visual exploration tools are needed to make this process efficient. In this paper we present a comprehensive analysis of requirements for the visualization of multi-attribute rankings. Based on these considerations, we propose LineUp - a novel and scalable visualization technique that uses bar charts. This interactive technique supports the ranking of items based on multiple heterogeneous attributes with different scales and semantics. It enables users to interactively combine attributes and flexibly refine parameters to explore the effect of changes in the attribute combination. This process can be employed to derive actionable insights as to which attributes of an item need to be modified in order for its rank to change. Additionally, through integration of slope graphs, LineUp can also be used to compare multiple alternative rankings on the same set of items, for example, over time or across different attribute combinations. We evaluate the effectiveness of the proposed multi-attribute visualization technique in a qualitative study. The study shows that users are able to successfully solve complex ranking tasks in a short period of time.</p>"
+abstract: |2-
+  Rankings are a popular and universal approach to structuring otherwise unorganized collections of items by computing a rank for each item based on the value of one or more of its attributes. This allows us, for example, to prioritize tasks or to evaluate the performance of products relative to each other. While the visualization of a ranking itself is straightforward, its interpretation is not, because the rank of an item represents only a summary of a potentially complicated relationship between its attributes and those of the other items. It is also common that alternative rankings exist which need to be compared and analyzed to gain insight into how multiple heterogeneous attributes affect the rankings. Advanced visual exploration tools are needed to make this process efficient. In this paper we present a comprehensive analysis of requirements for the visualization of multi-attribute rankings. Based on these considerations, we propose LineUp - a novel and scalable visualization technique that uses bar charts. This interactive technique supports the ranking of items based on multiple heterogeneous attributes with different scales and semantics. It enables users to interactively combine attributes and flexibly refine parameters to explore the effect of changes in the attribute combination. This process can be employed to derive actionable insights as to which attributes of an item need to be modified in order for its rank to change. Additionally, through integration of slope graphs, LineUp can also be used to compare multiple alternative rankings on the same set of items, for example, over time or across different attribute combinations. We evaluate the effectiveness of the proposed multi-attribute visualization technique in a qualitative study. The study shows that users are able to successfully solve complex ranking tasks in a short period of time.
 
 # Summary. An optional shortened abstract.
 summary: LineUp is a visualization technique for multi attribute rankings
@@ -48,19 +49,19 @@ links:
   - name: LineUp Cheat Sheet
     url: https://data.jku-vds-lab.at/papers/2013_infovis_lineup_cheat_sheet.pdf
 
-url_pdf: "https://data.jku-vds-lab.at/papers/2013_infovis_lineup.pdf"
-url_code: "https://github.com/Caleydo/org.caleydo.view.lineup"
+url_pdf: https://data.jku-vds-lab.at/papers/2013_infovis_lineup.pdf
+url_code: https://github.com/Caleydo/org.caleydo.view.lineup
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ""
-url_project: "https://jku-vds-lab.at/tools/lineup/"
-url_slides: "https//data.jku-vds-lab.at/papers/2013_infovis_lineup_talk.pdf"
-url_source: "https://data.jku-vds-lab.at/papers/2013_infovis_lineup_talk.pptx"
-url_video: "https://youtu.be/iFqCBI4T8ks"
+url_poster:
+url_project: https://jku-vds-lab.at/tools/lineup/
+url_slides: https//data.jku-vds-lab.at/papers/2013_infovis_lineup_talk.pdf
+url_source: https://data.jku-vds-lab.at/papers/2013_infovis_lineup_talk.pptx
+url_video: https://youtu.be/iFqCBI4T8ks
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: "LineUp Teaser Image"
+  # caption: "LineUp Teaser Image"
   focal_point: ""
   preview_only: false
 

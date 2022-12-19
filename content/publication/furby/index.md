@@ -44,19 +44,19 @@ featured: false
 
 # Custom links (uncomment lines below)
 
-url_pdf: 'https://data.jku-vds-lab.at/papers/2014_bmc_furby.pdf'
-url_code: 'https://github.com/Caleydo/org.caleydo.view.furby'
-# url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-# url_poster: ''
-# url_project: 'https://jku-vds-lab.at/tools/lineup/'
-# url_slides: 'https//data.jku-vds-lab.at/papers/2013_infovis_lineup_talk.pdf'
-# url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://www.youtube.com/watch?v=yHjpHfo5C4U'
+url_pdf: https://data.jku-vds-lab.at/papers/2014_bmc_furby.pdf
+url_code: https://github.com/Caleydo/org.caleydo.view.furby
+# url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+# url_poster:
+# url_project: https://jku-vds-lab.at/tools/lineup/
+# url_slides: https//data.jku-vds-lab.at/papers/2013_infovis_lineup_talk.pdf
+# url_source: https://github.com/wowchemy/wowchemy-hugo-themes
+url_video: https://www.youtube.com/watch?v=yHjpHfo5C4U
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+# To use, add an image named `featured.jpg/png` to your pages folder.
 image:
-  caption: 'BiCluster Visualization Teaser Image'
+  # caption: BiCluster Visualization Teaser Image
   focal_point: ''
   preview_only: false
 
