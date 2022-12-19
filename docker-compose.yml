@@ -1,9 +1,10 @@
-version: '2.0'
+version: "3.2"
 services:
-  jekyll:
-    image: jekyll/jekyll:3.8
+  hugo:
+    image: klakegg/hugo:ext-alpine
     volumes:
-      - './:/srv/jekyll'
-    command: jekyll serve --watch --force_polling
+      - "./:/src"
     ports:
-      - '4000:4000'
+      - "1313:1313"
+    # command: serve --disableFastRender
+    command: build

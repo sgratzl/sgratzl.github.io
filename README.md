@@ -1,5 +1,15 @@
-## Launch
+# Personal Website
+
+https://www.sgratzl.com
+
+```bash
+npx prettier --write .
+```
 
 ```
-docker run --rm --label=jekyll --volume=$(pwd):/srv/jekyll -it -p 127.0.0.1:4000:4000 jekyll/jekyll jekyll serve --watch --force_polling
+docker run -it --rm  -p "1313:1313" -v "$PWD:/src" klakegg/hugo:ext-alpine shell
+```
+
+```
+docker-compose up
 ```
