@@ -140,16 +140,16 @@ sections:
       items:
         # TODO scholarships?
         - title: Promotio sub auspiciis Praesidentis rei publicae
-          description: PhD graduation with highest possible honors in Austria
+          description: I graduated my PhD with the highest possible honors in Austria with the presence of the president of Austria
           date_start: 2018-04-01
           organization: Ministry for Science and Research of Austria, Vienna, Austria
           # organization_url: https://jku.at
         - title: Best Paper Award
-          description: Provenance-Based Visualization Retrieval
+          description: 'For my paper titled "Provenance-Based Visualization Retrieval"'
           date_start: 2017-10-01
           organization: IEEE Information Visualization (InfoVis'17), Phoenix, USA
         - title: Honorable Mention Best Paper Award
-          description: "Pathfinder: Visual Analysis of Paths in Graphs"
+          description: 'For my paper titled "Pathfinder: Visual Analysis of Paths in Graphs"'
           date_start: 2016-05-01
           organization: EG/VGTC Conference on Visualization (EuroVis'16), Groningen, NL
         # - title: Honorable Mention Best Poster Award
@@ -157,11 +157,11 @@ sections:
         #   date_start: 2015-10-01
         #   organization: IEEE Information Visualization (InfoVis'15), Chicago, USA
         - title: Honorable Mention Best Paper Award
-          description: "Domino: Extracting, Comparing, and Manipulating Subsets across Multiple Tabular Datasets"
+          description: 'For my paper titled "Domino: Extracting, Comparing, and Manipulating Subsets across Multiple Tabular Datasets"'
           date_start: 2014-10-01
           organization: IEEE Information Visualization (InfoVis'14), Paris, France
         - title: Best Paper Award
-          description: "LineUp: Visual Analysis of Multi-Attribute Rankings"
+          description: 'For my paper titled "LineUp: Visual Analysis of Multi-Attribute Rankings"'
           date_start: 2013-10-01
           organization: IEEE Information Visualization (InfoVis'13), Atlanta, USA
 
