@@ -33,7 +33,7 @@ tags:
 # Display this page in the Featured widget?
 featured: false
 
-url_pdf: http://data.jku-vds-lab.at/papers/2014_vast_opening-black-box.pdf
+url_pdf: https://data.jku-vds-lab.at/papers/2014_vast_opening-black-box.pdf
 # url_code: https://github.com/Caleydo/org.caleydo.view.lineup
 # url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_poster:

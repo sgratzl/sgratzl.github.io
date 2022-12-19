@@ -40,7 +40,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 
-url_pdf: http://data.jku-vds-lab.at/papers/2019_sage_infovis_taggle.pdf
+url_pdf: https://data.jku-vds-lab.at/papers/2019_sage_infovis_taggle.pdf
 url_code: https://github.com/lineupjs/lineupjs/
 # url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_poster:

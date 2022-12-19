@@ -37,13 +37,13 @@ featured: false
 # Custom links (uncomment lines below)
 links:
   - name: Supplementary Material
-    url: http://data.jku-vds-lab.at/papers/2018_vast_knowledge-pearls-supplement.pdf
+    url: https://data.jku-vds-lab.at/papers/2018_vast_knowledge-pearls-supplement.pdf
 
-url_pdf: http://data.jku-vds-lab.at/papers/2018_vast_knowledge-pearls.pdf
+url_pdf: https://data.jku-vds-lab.at/papers/2018_vast_knowledge-pearls.pdf
 url_code: https://github.com/Caleydo/knowledge-pearls
 # url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_poster:
-url_project: http://knowledge-pearls.caleydo.org/
+url_project: https://knowledge-pearls.caleydo.org/
 # url_slides: https//data.jku-vds-lab.at/papers/2013_infovis_lineup_talk.pdf
 # url_source: https://data.jku-vds-lab.at/papers/2013_infovis_lineup_talk.pptx
 url_video: https://youtu.be/N6f4d5UResM

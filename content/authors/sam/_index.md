@@ -22,7 +22,7 @@ organizations:
   #   url: https://www.truveta.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research Software Engineer with a focus on interactive information visualization
+bio: Research Software Engineer with a focus on interactive data exploration
 
 # Interests to show in About widget
 interests:
@@ -71,9 +71,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/cv_gratzl.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/cv_gratzl.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -82,5 +82,9 @@ email: ""
 highlight_name: true
 ---
 
-Samuel Gratzl is a passionate Research Software Engineer with a focus on interactive information visualization. He is a Full Stack Developer with 10+ years of experience. He loves to dig into code, hunt bugs, and design new platforms. His goal is enabling researcher to discover more insights faster and easier.
+Samuel Gratzl is a passionate Research Software Engineer with a focus on interactive data exploration.
+He is a Full Stack Developer with 10+ years of experience.
+In 2017, he finished his PhD in Computer Science with a focus on Information Visualization at the [Johannes Kepler University, Linz, Austria](https://jku.at).
+He loves to dig into code, hunt bugs, and design new platforms.
+His goal is enabling researcher to discover more insights easier and faster as well as develop libraries that help others developers to do the same.
 {style="text-align: justify;"}

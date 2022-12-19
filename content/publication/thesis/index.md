@@ -29,7 +29,7 @@ tags:
 # Display this page in the Featured widget?
 featured: true
 
-url_pdf: http://data.jku-vds-lab.at/papers/2017_phd_thesis_gratzl.pdf
+url_pdf: https://data.jku-vds-lab.at/papers/2017_phd_thesis_gratzl.pdf
 # url_code: https://github.com/Caleydo/org.caleydo.view.lineup
 # url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 # url_poster:
@@ -56,7 +56,8 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  # - lineup
+  - lineup
+  - tdp
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.

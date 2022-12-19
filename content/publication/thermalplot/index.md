@@ -40,7 +40,7 @@ links:
   # - name:
   #   url:
 
-url_pdf: http://data.jku-vds-lab.at/papers/2016_tvcg_thermalplot.pdf
+url_pdf: https://data.jku-vds-lab.at/papers/2016_tvcg_thermalplot.pdf
 url_code: https://github.com/Caleydo/org.caleydo.view.lineup
 # url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_poster:

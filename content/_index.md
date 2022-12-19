@@ -104,7 +104,7 @@ sections:
           description: |2-
             * I specialize in the design and implementation of customized visual exploration web applications.
             * In close collaboration with the customer, I develop specialized visual exploration platforms that not only allow the customer to answer their questions but even those they haven't thought about yet.}
-            * In addition, I provide freelance service for integrating my open-source libraries, such as \href[LinUp-lite](https://lineup-lite.js.org), [LineUp.js](https://lineup.js.org), or [UpSet.js](https://upset.js.org)
+            * In addition, I provide freelance service for integrating my open-source libraries, such as [LinUp-lite](https://lineup-lite.js.org), [LineUp.js](https://lineup.js.org), or [UpSet.js](https://upset.js.org)
         - title: Co-founder and Chief Technology Officer (CTO)
           company: datavisyn GmbH
           company_url: "https://datavisyn.io"

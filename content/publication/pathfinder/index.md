@@ -42,9 +42,9 @@ featured: false
 # Custom links (uncomment lines below)
 links:
   - name: Supplementary Material
-    url: http://data.jku-vds-lab.at/papers/2016_eurovis_pathfinder_supplement.pdf
+    url: https://data.jku-vds-lab.at/papers/2016_eurovis_pathfinder_supplement.pdf
 
-url_pdf: http://data.jku-vds-lab.at/papers/2016_eurovis_pathfinder.pdf
+url_pdf: https://data.jku-vds-lab.at/papers/2016_eurovis_pathfinder.pdf
 url_code: https://github.com/Caleydo/pathfinder/
 # url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_poster:

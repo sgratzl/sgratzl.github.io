@@ -44,11 +44,11 @@ featured: false
 # Custom links (uncomment lines below)
 links:
   - name: Supplementary Material
-    url: http://data.jku-vds-lab.at/papers/2014_nm_stratomex_supplementary.pdf
+    url: https://data.jku-vds-lab.at/papers/2014_nm_stratomex_supplementary.pdf
 
-url_pdf: http://data.jku-vds-lab.at/papers/2014_nm_stratomex.pdf
+url_pdf: https://data.jku-vds-lab.at/papers/2014_nm_stratomex.pdf
 # url_code: https://github.com/Caleydo/org.caleydo.view.stratomex
-url_dataset: http://data.jku-vds-lab.at/papers/2014_nm_stratomex_project.cal
+url_dataset: https://data.jku-vds-lab.at/papers/2014_nm_stratomex_project.cal
 url_poster:
 url_project: https://jku-vds-lab.at/tools/stratomex/
 url_video: https://youtu.be/s2ZofJ2GVHU

@@ -37,15 +37,15 @@ featured: true
 # Custom links (uncomment lines below)
 links:
   - name: Supplementary Material
-    url: http://data.jku-vds-lab.at/papers/2016_eurovis_clue_supplement.pdf
+    url: https://data.jku-vds-lab.at/papers/2016_eurovis_clue_supplement.pdf
 
-url_pdf: http://data.jku-vds-lab.at/papers/2016_eurovis_clue.pdf
+url_pdf: https://data.jku-vds-lab.at/papers/2016_eurovis_clue.pdf
 url_code: https://github.com/Caleydo/caleydo_clue
 # url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_poster:
 url_project: https://vistories.org
-url_slides: http://data.jku-vds-lab.at/papers/2016_eurovis_clue_talk.pptx
-url_source: http://data.jku-vds-lab.at/papers/2016_eurovis_clue_talk.pptx
+url_slides: https://data.jku-vds-lab.at/papers/2016_eurovis_clue_talk.pptx
+url_source: https://data.jku-vds-lab.at/papers/2016_eurovis_clue_talk.pptx
 url_video: https://youtu.be/r1DZGIYIFR0
 
 # Featured image

@@ -41,9 +41,9 @@ featured: false
 # Custom links (uncomment lines below)
 links:
   - name: Supplementary Material
-    url: http://data.jku-vds-lab.at/papers/2019_bioinformatics_ordino_supplement.pdf
+    url: https://data.jku-vds-lab.at/papers/2019_bioinformatics_ordino_supplement.pdf
 
-url_pdf: http://data.jku-vds-lab.at/papers/2019_bioinformatics_ordino.pdf
+url_pdf: https://data.jku-vds-lab.at/papers/2019_bioinformatics_ordino.pdf
 url_code: https://github.com/Caleydo/ordino
 # url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_poster:
@@ -66,6 +66,7 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
   - tdp
+  - lineup
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
