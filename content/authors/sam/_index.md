@@ -83,8 +83,8 @@ highlight_name: true
 ---
 
 Samuel Gratzl is a passionate Research Software Engineer with a focus on interactive data exploration.
-He is a Full Stack Developer with 10+ years of experience.
+He is a full-stack developer with 10+ years of experience.
 In 2017, he finished his PhD in Computer Science with a focus on Information Visualization at the [Johannes Kepler University, Linz, Austria](https://jku.at).
 He loves to dig into code, hunt bugs, and design new platforms.
-His goal is enabling researcher to discover more insights easier and faster as well as develop libraries that help others developers to do the same.
+His goal is to enable researchers to discover more insights easier and faster, as well as develop libraries that help other developers do the same.
 {style="text-align: justify;"}
